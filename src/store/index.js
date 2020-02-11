@@ -2,9 +2,9 @@
 import Vue from "vue";
 import Vuex from "vuex";
 // eslint-disable-next-line no-unused-vars
-const config = require("@/config.json");
-// const LS_ROUTE_KEY = process.env.VUE_APP_LS_ROUTE_KEY;
-// console.log("LS_ROUTE_KEY", LS_ROUTE_KEY);
+//const config = require("@/config.json");
+// eslint-disable-next-line no-unused-vars
+import _ from "lodash";
 
 Vue.use(Vuex);
 
@@ -18,6 +18,7 @@ export default new Vuex.Store({
     isAppReady: false,
     config: null,
     routes: null,
+    meetings: null,
     sections: null,
     siteMeta: null,
     searchIndex: null,
@@ -69,6 +70,10 @@ export default new Vuex.Store({
     SET_SITEMETA(state, siteMeta) {
       state.siteMeta = siteMeta;
       console.log("siteMeta loaded.");
+    },
+    SET_MEETINGS(state, meetings) {
+      state.meetings = meetings;
+      console.log("Meetings loaded.");
     }
   },
   actions: {
@@ -91,8 +96,42 @@ export default new Vuex.Store({
     setSections({ commit }, sections) {
       commit("SET_SECTIONS", sections);
     },
-    setSiteMeta({ commit }, siteMeta) {
+    async setSiteMeta({ commit }) {
+      function getSection(key) {
+        let root = key.split("/");
+        const isRoot = /^.*\.(md)$/i.test(root[1]);
+        if (isRoot) {
+          return "/";
+        } else {
+          return `/${root[1]}`;
+        }
+      }
+      const context = await require.context(
+        "../../public/markdown",
+        true,
+        /\.md$/
+      );
+
+      const siteMeta = await context.keys().map(key => ({
+        ...context(key),
+        path: `/${key.replace(".md", "").replace("./", "")}`,
+        root: `${getSection(key)}`
+      }));
       commit("SET_SITEMETA", siteMeta);
+    },
+    async setMeetings({ commit }) {
+      const meetingContext = await require.context(
+        "../../public/markdown/meetings",
+        true,
+        /\.md$/
+      );
+
+      const meetings = await meetingContext.keys().map(key => ({
+        ...meetingContext(key),
+        path: `/meetings/${key.replace(".md", "").replace("./", "")}`
+      }));
+      console.log(meetings);
+      commit("SET_MEETINGS", meetings);
     }
   },
   getters: {
@@ -115,6 +154,9 @@ export default new Vuex.Store({
     },
     siteMeta: state => {
       return state.siteMeta;
+    },
+    meetings: state => {
+      return state.meetings;
     }
   }
 });

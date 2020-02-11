@@ -2,7 +2,7 @@
 title: "Areas Eligible for R3 Program Grants"
 showInSitemap: true
 tocHeading: "Eligible Areas"
-showToc: true
+showToc: false
 showInFooter: true
 showInNav: true
 showInSidebar: true
@@ -10,7 +10,7 @@ menuRank: 0
 menuTitle: "Home"
 ---
 
-[home](/) | [analysis](/analysis) | [faqs](/faqs)
+<QuickNav></QuickNav>
 
 ## R3 Map
 

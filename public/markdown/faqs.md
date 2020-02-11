@@ -9,7 +9,7 @@ menuRank: 300
 menuTitle: "FAQs"
 ---
 
-[home](/) | [analysis](/analysis) | [faqs](/faqs)
+<QuickNav></QuickNav>
 
 ## R3 Grants
 

@@ -54,15 +54,6 @@ export default {
   }),
   mounted() {},
   async created() {
-    function getSection(key) {
-      let root = key.split("/");
-      const isRoot = /^.*\.(md)$/i.test(root[1]);
-      if (isRoot) {
-        return "/";
-      } else {
-        return `/${root[1]}`;
-      }
-    }
     this.loading = true;
     //console.log(this.canonical);
     if (!this.$store.state.isAppReady) {
@@ -71,18 +62,9 @@ export default {
         : Promise.resolve(require("@/config.json"));
       let config = await configPromise;
       this.$store.dispatch("setConfig", config);
-      const context = await require.context(
-        "../public/markdown",
-        true,
-        /\.md$/
-      );
 
-      const siteMeta = await context.keys().map(key => ({
-        ...context(key),
-        path: `/${key.replace(".md", "").replace("./", "")}`,
-        root: `${getSection(key)}`
-      }));
-      this.$store.dispatch("setSiteMeta", siteMeta);
+      this.$store.dispatch("setSiteMeta");
+      this.$store.dispatch("setMeetings");
       this.$store.dispatch("initApp");
     }
     this.siteTitle = `${this.$store.getters.config.siteTitle}`;
