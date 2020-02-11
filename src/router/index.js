@@ -8,8 +8,14 @@ const fallbackRoutes = require("./fallbackRoutes.js");
 
 //Add dynamic 'Page' component to generated routes
 const generatedRoutes = markdownRoutes.map(route => {
-  route.component = () =>
-    import(/* webpackChunkName: "page" */ "../views/Page.vue");
+  if (route.path != "/") {
+    route.component = () =>
+      import(/* webpackChunkName: "page" */ "../views/Page.vue");
+  } else {
+    route.component = () =>
+      import(/* webpackChunkName: "static" */ "../views/Home.vue");
+  }
+
   return route;
 });
 

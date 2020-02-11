@@ -18,12 +18,12 @@ let urls = routes.map(route => {
   }
 });
 
-let home = {};
-home.url = `${config.clientURL}${config.publicPath}`;
-home.changefreq = "weekly";
-home.priority = 0.5;
-home.lastmod = new Date().toJSON().substring(0, 10);
-urls.push(home);
+// let home = {};
+// home.url = `${config.clientURL}${config.publicPath}`;
+// home.changefreq = "weekly";
+// home.priority = 0.5;
+// home.lastmod = new Date().toJSON().substring(0, 10);
+// urls.push(home);
 
 // filter undefined
 let temp = [];

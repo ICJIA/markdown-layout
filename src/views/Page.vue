@@ -39,7 +39,10 @@
               order="1"
               order-sm="1"
             >
-              <Toc :toc="$route.meta.toc"></Toc>
+              <Toc
+                :toc="$route.meta.toc"
+                :tocHeading="$route.meta.tocHeading"
+              ></Toc>
             </v-col>
           </v-row>
         </v-container>

@@ -112,14 +112,14 @@ export default {
         this.$vuetify.breakpoint.lg ||
         this.$vuetify.breakpoint.xl
       ) {
-        els = document.querySelectorAll(this.tocSelectors);
+        els = document.querySelectorAll("h2, h3");
       } else {
         els = document.querySelectorAll("h2");
       }
 
       const tocLinks = document.querySelectorAll(".tocItem");
       const tocHeadings = document.querySelectorAll("h2");
-      //console.log(tocHeadings);
+      // console.log(tocLinks);
 
       if (scrollPosition < 100) {
         tocLinks.forEach(link => {
@@ -135,10 +135,13 @@ export default {
         const elTop = el.getBoundingClientRect().top;
         // eslint-disable-next-line no-unused-vars
         const elBottom = el.getBoundingClientRect().bottom;
+        // console.log(el);
 
         if (elTop < 120) {
-          let tocEl = document.getElementById(`${el.id}`);
-
+          let tocID = el.id.replace("test-app-", "toc-");
+          //console.log(tocID);
+          let tocEl = document.getElementById(`${tocID}`);
+          //console.log(tocEl);
           tocLinks.forEach(link => {
             link.classList.remove("visible");
           });
@@ -153,7 +156,6 @@ export default {
         //console.log(el);
         if (elTop < 120) {
           let heading = el.id;
-
           this.currentHeading = heading;
         }
       });

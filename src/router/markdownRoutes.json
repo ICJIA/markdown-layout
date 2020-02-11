@@ -128,7 +128,7 @@
     }
   },
   {
-    "path": "/home",
+    "path": "/",
     "name": "home",
     "meta": {
       "markdownPath": "public/markdown/home.md",

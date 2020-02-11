@@ -10,8 +10,8 @@ showInSidebar: true
 menuRank: 300
 menuTitle: "FAQs"
 ---
-[home](/home) | [analysis](/analysis) | [faqs](/faqs)
 
+[home](/) | [analysis](/analysis) | [faqs](/faqs)
 
 ## R3 Grants
 

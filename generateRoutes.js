@@ -45,7 +45,12 @@ paths.forEach(path => {
     fileObj.data.createdAt || new Date().toJSON().substring(0, 10);
   routeObj.meta.updatedAt = fileObj.data.updatedAt || routeObj.meta.createdAt;
 
-  if (routeObj.path !== "/home") generatedRoutes.push(routeObj);
+  if (routeObj.path !== "/home") {
+    generatedRoutes.push(routeObj);
+  } else {
+    routeObj.path = "/";
+    generatedRoutes.push(routeObj);
+  }
 });
 
 const storeData = (data, path) => {

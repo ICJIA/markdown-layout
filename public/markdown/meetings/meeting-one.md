@@ -9,7 +9,7 @@ showInNav: true
 showInSidebar: true
 ---
 
-[home](/home) | [analysis](/analysis) | [faqs](/faqs)
+[home](/) | [analysis](/analysis) | [faqs](/faqs)
 
 ## Test
 

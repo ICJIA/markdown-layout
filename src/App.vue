@@ -92,3 +92,9 @@ export default {
   }
 };
 </script>
+
+<style>
+.hover {
+  cursor: pointer;
+}
+</style>

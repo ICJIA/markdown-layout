@@ -3,8 +3,7 @@ title: "Areas Eligible for R3 Program Grants"
 showInSitemap: false
 ---
 
-[home](/home) | [analysis](/analysis) | [faqs](/faqs)
-
+[home](/) | [analysis](/analysis) | [faqs](/faqs)
 
 ## Ante suos corpus Triopeius dominari rogat saepe
 
