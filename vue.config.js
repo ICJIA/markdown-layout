@@ -4,7 +4,7 @@ const markdownIt = require("markdown-it");
 const markdownItNamedHeaders = require("./lib/markdown-it-named-headers-fork");
 const markdownItAttrs = require("markdown-it-attrs");
 // eslint-disable-next-line no-unused-vars
-const config = require("./src/config.json");
+const appConfig = require("./src/config.json");
 
 module.exports = {
   //publicPath: process.env.NODE_ENV === `production` ? config.publicPath : "/",
@@ -34,7 +34,9 @@ module.exports = {
             langPrefix: "language-",
             linkify: true
           })
-            .use(markdownItNamedHeaders, { namespace: "md-" })
+            .use(markdownItNamedHeaders, {
+              namespace: `${appConfig.namespace}`
+            })
             .use(markdownItAttrs)
         };
       });
