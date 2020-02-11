@@ -2,7 +2,7 @@
 title: "Home"
 showInSitemap: true
 tocHeading: "Navigation"
-showToc: true
+showToc: false
 showInFooter: true
 showInNav: true
 showInSidebar: true

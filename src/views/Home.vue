@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Splash class="mb-5" />
     <base-content id="baseContentTop" class="mb-12" :loading="loading">
       <template v-slot:content>
         <v-container>
