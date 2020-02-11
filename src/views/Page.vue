@@ -39,7 +39,7 @@
               order="1"
               order-sm="1"
             >
-              <TocNew :toc="$route.meta.toc"></TocNew>
+              <Toc :toc="$route.meta.toc"></Toc>
             </v-col>
           </v-row>
         </v-container>
@@ -49,7 +49,6 @@
 </template>
 
 <script>
-/* eslint-disable no-undef */
 import { handleClicks } from "@/mixins/handleClicks";
 
 const slugs = require("slugs");
@@ -64,19 +63,16 @@ export default {
       selectedArticle: null,
       title: "",
       markdownContent: null,
-      toc: [],
-      showToc: false,
-      sections: [],
-      markdown: "",
-      tableOfContents: [],
-      tocSelectors: "h2",
-      tocHeaders: "h2"
+
+      showToc: false
     };
   },
   created() {
     this.loading = true;
+    // eslint-disable-next-line no-undef
     NProgress.start();
     this.fetchContent();
+    // eslint-disable-next-line no-undef
     NProgress.done();
     this.loading = false;
   },

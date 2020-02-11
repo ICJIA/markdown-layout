@@ -1,7 +1,7 @@
 <template>
   <v-navigation-drawer v-model="drawer" app clipped color="grey lighten-4">
     <v-list dense class="grey lighten-4">
-      {{ $store.getters.siteMeta }}
+      links here
     </v-list>
   </v-navigation-drawer>
 </template>
@@ -12,9 +12,6 @@ export default {
   created() {
     EventBus.$on("toggleDrawer", () => {
       this.drawer = !this.drawer;
-    });
-    EventBus.$on("tableOfContents", tableOfContents => {
-      this.tableOfContents = tableOfContents;
     });
   },
   data: () => ({

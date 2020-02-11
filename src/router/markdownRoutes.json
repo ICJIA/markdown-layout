@@ -128,6 +128,43 @@
     }
   },
   {
+    "path": "/home",
+    "name": "home",
+    "meta": {
+      "markdownPath": "public/markdown/home.md",
+      "toc": [
+        {
+          "content": "R3 Map",
+          "target": "test-app-r3-map",
+          "lvl": 2,
+          "i": 0,
+          "seen": 0,
+          "parent": "",
+          "id": "toc-r3-map"
+        },
+        {
+          "content": "R3 Table",
+          "target": "test-app-r3-table",
+          "lvl": 2,
+          "i": 1,
+          "seen": 0,
+          "parent": "",
+          "id": "toc-r3-table"
+        }
+      ],
+      "url": "/home",
+      "title": "Areas Eligible for R3 Program Grants",
+      "showInSitemap": true,
+      "showInNav": true,
+      "showInFooter": true,
+      "showInSidebar": true,
+      "showToc": true,
+      "tocHeading": "Eligible Areas",
+      "createdAt": "2020-02-11",
+      "updatedAt": "2020-02-11"
+    }
+  },
+  {
     "path": "/meetings/meeting-one",
     "name": "meetingsmeeting-one",
     "meta": {

@@ -8,7 +8,7 @@ const manualRoutes = [
       markdownPath: "public/markdown/home.md",
       title: "AREAS ELIGIBLE FOR R3 PROGRAM GRANTS",
       tocHeading: "Eligible Areas",
-      tocComponent: "Toc",
+
       url: "/",
       createdAt: "2020-01-23",
       updatedAt: "2020-01-23",

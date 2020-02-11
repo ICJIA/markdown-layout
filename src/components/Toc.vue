@@ -43,31 +43,30 @@
     <div class="divider pl-5">
       <div v-for="(item, index) in tocMap" :key="index">
         <div
-          v-if="item.level === 0"
+          v-if="item.lvl === 2"
           class="my-3 px-2 tocItem hover"
-          :id="`scrollTo-${item.id}`"
-          @click="scrollTo(item.id)"
+          :id="`${item.id}`"
+          @click="scrollTo(`${item.target}`)"
           style="font-size: 14px; font-weight: 700; color: #555;"
         >
-          {{ item.heading }}
+          {{ `${item.content}` }}
         </div>
-
         <div
           v-if="
-            item.level === 1 &&
+            item.lvl === 3 &&
               ($vuetify.breakpoint.lg ||
                 $vuetify.breakpoint.md ||
                 $vuetify.breakpoint.xl)
           "
           class="ml-3 my-2 tocItem hover animated fadeIn"
-          :id="`scrollTo-${item.id}`"
-          @click="scrollTo(item.id)"
           style="font-size: 13px;"
+          :id="`${item.id}`"
+          @click="scrollTo(`${item.target}`)"
           :class="{
             hidden: item.parent != currentHeading
           }"
         >
-          {{ item.heading }}
+          {{ item.content }}
         </div>
       </div>
     </div>
@@ -84,7 +83,22 @@ export default {
   },
   computed: {
     tocMap() {
-      return this.tableOfContents;
+      return this.toc;
+    }
+  },
+  data() {
+    return {
+      currentHeading: ""
+    };
+  },
+  props: {
+    toc: {
+      type: Array,
+      default: () => []
+    },
+    tocHeading: {
+      type: String,
+      default: "NAVIGATION"
     }
   },
   methods: {
@@ -93,7 +107,15 @@ export default {
       const scrollPosition =
         document.documentElement.scrollTop || document.body.scrollTop;
 
-      els = document.querySelectorAll("h2, h3");
+      if (
+        this.$vuetify.breakpoint.md ||
+        this.$vuetify.breakpoint.lg ||
+        this.$vuetify.breakpoint.xl
+      ) {
+        els = document.querySelectorAll(this.tocSelectors);
+      } else {
+        els = document.querySelectorAll("h2");
+      }
 
       const tocLinks = document.querySelectorAll(".tocItem");
       const tocHeadings = document.querySelectorAll("h2");
@@ -115,7 +137,7 @@ export default {
         const elBottom = el.getBoundingClientRect().bottom;
 
         if (elTop < 120) {
-          let tocEl = document.getElementById(`scrollTo-${el.id}`);
+          let tocEl = document.getElementById(`${el.id}`);
 
           tocLinks.forEach(link => {
             link.classList.remove("visible");
@@ -130,49 +152,14 @@ export default {
         const elBottom = el.getBoundingClientRect().bottom;
         //console.log(el);
         if (elTop < 120) {
-          this.currentHeading = el.id;
+          let heading = el.id;
+
+          this.currentHeading = heading;
         }
       });
     },
     scrollTo(id) {
       this.$vuetify.goTo(`#${id}`, { offset: 15 });
-    }
-  },
-
-  data() {
-    return {
-      tocList: [],
-      currentHeading: ""
-    };
-  },
-  props: {
-    tableOfContents: {
-      type: Array,
-      default: () => {}
-    },
-    tocHeading: {
-      type: String,
-      default: "NAVIGATION"
-    },
-    tocSelectors: {
-      type: String,
-      default: "h2"
-    },
-    tocHeadings: {
-      type: String,
-      default: "h2"
-    },
-    top: {
-      type: String,
-      default: "#baseContentTop"
-    },
-    enableTracking: {
-      type: Boolean,
-      default: true
-    },
-    loading: {
-      type: Boolean,
-      default: true
     }
   }
 };

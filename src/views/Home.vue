@@ -18,16 +18,27 @@
             <v-col
               cols="12"
               sm="12"
-              md="12"
+              :md="dynamicFlex()"
               order-md="1"
               order="2"
               order-sm="2"
             >
               <HomePageContent
-                @hook:mounted="initToc"
+                @hook:mounted="generateToc"
                 @click.native="handleClicks"
                 class="dynamic-content"
               ></HomePageContent>
+            </v-col>
+            <v-col
+              v-if="showToc"
+              cols="12"
+              sm="12"
+              md="3"
+              order-md="2"
+              order="1"
+              order-sm="1"
+            >
+              <Toc :toc="toc"></Toc>
             </v-col>
           </v-row>
         </v-container>
@@ -37,12 +48,14 @@
 </template>
 
 <script>
+// eslint-disable-next-line no-unused-vars
 import { handleClicks } from "@/mixins/handleClicks";
+import { generateToc } from "@/mixins/generateToc";
 const slugs = require("slugs");
 import fm from "../../public/markdown/home.md";
-import { EventBus } from "@/event-bus";
+// import { EventBus } from "@/event-bus";
 export default {
-  mixins: [handleClicks],
+  mixins: [handleClicks, generateToc],
   metaInfo() {
     return {
       title: this.title
@@ -63,11 +76,7 @@ export default {
       title: fm.attributes.title,
       showToc: fm.attributes.showToc,
       loading: true,
-      toc: [],
-      fm,
-      tableOfContents: [],
-      tocSelectors: "h2",
-      tocHeaders: "h2"
+      fm
     };
   },
   methods: {
@@ -81,39 +90,7 @@ export default {
     test() {
       console.log("click");
     },
-    initToc() {
-      if (!this.showToc) return;
 
-      // eslint-disable-next-line no-undef
-      NProgress.start();
-      let doc = Array.from(document.querySelectorAll("h2,h3"));
-
-      let parent;
-
-      let tableOfContents = doc.map(d => {
-        let obj = {};
-        obj.heading = d.innerText;
-        obj.id = `${d.id}`;
-        obj.element = d.nodeName;
-        obj.level = d.nodeName === "H2" ? 0 : 1;
-        obj.hidden = false;
-        if (d.nodeName === "H2") {
-          parent = d.id;
-          obj.parent = "";
-          obj.hidden = false;
-        } else {
-          obj.parent = parent;
-          obj.hidden = true;
-        }
-        return obj;
-      });
-      //console.table(tableOfContents);
-      let tocObj = {};
-      tocObj[this.$route.path] = tableOfContents;
-      EventBus.$emit("tableOfContents", tocObj);
-      // eslint-disable-next-line no-undef
-      NProgress.done();
-    },
     slugify(str) {
       return slugs(str);
     }
