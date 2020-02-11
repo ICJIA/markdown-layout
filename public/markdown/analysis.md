@@ -2,8 +2,6 @@
 title: "Analysis"
 showToc: true
 showInSitemap: true
-tocSelectors: "h2, h3"
-tocHeaders: "h2"
 showInFooter: true
 showInNav: true
 showInSidebar: true

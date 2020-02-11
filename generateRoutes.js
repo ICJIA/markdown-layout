@@ -33,7 +33,6 @@ paths.forEach(path => {
   routeObj.meta = {};
   routeObj.meta.markdownPath = path;
   routeObj.meta.toc = toc(fileObj.content).json;
-  routeObj.meta.url = routeObj.path;
   routeObj.meta.title = fileObj.data.title || "Untitled";
   routeObj.meta.showInSitemap = fileObj.data.showInSitemap;
   routeObj.meta.showInNav = fileObj.data.showInNav;
@@ -41,6 +40,7 @@ paths.forEach(path => {
   routeObj.meta.showInSidebar = fileObj.data.showInSidebar;
   routeObj.meta.showToc = fileObj.data.showToc;
   routeObj.meta.tocHeading = fileObj.data.tocHeading || fileObj.data.title;
+  routeObj.meta.downloadPath = `/downloads${routeObj.path}/`;
   routeObj.meta.createdAt =
     fileObj.data.createdAt || new Date().toJSON().substring(0, 10);
   routeObj.meta.updatedAt = fileObj.data.updatedAt || routeObj.meta.createdAt;
@@ -49,6 +49,7 @@ paths.forEach(path => {
     generatedRoutes.push(routeObj);
   } else {
     routeObj.path = "/";
+    routeObj.url = "/";
     generatedRoutes.push(routeObj);
   }
 });

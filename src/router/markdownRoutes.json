@@ -69,7 +69,6 @@
           "id": "toc-1-high-need-underserved-disproportionately-impacted-by-historical-economic-disinvestment"
         }
       ],
-      "url": "/analysis",
       "title": "Analysis",
       "showInSitemap": true,
       "showInNav": true,
@@ -77,6 +76,7 @@
       "showInSidebar": true,
       "showToc": true,
       "tocHeading": "Analysis",
+      "downloadPath": "/downloads/analysis/",
       "createdAt": "2020-02-11",
       "updatedAt": "2020-02-11"
     }
@@ -115,7 +115,6 @@
           "id": "toc-r3-board"
         }
       ],
-      "url": "/faqs",
       "title": "Frequently Asked Questions",
       "showInSitemap": true,
       "showInNav": true,
@@ -123,6 +122,7 @@
       "showInSidebar": true,
       "showToc": true,
       "tocHeading": "Frequently Asked Questions",
+      "downloadPath": "/downloads/faqs/",
       "createdAt": "2020-02-11",
       "updatedAt": "2020-02-11"
     }
@@ -152,7 +152,6 @@
           "id": "toc-r3-table"
         }
       ],
-      "url": "/home",
       "title": "Areas Eligible for R3 Program Grants",
       "showInSitemap": true,
       "showInNav": true,
@@ -160,9 +159,11 @@
       "showInSidebar": true,
       "showToc": true,
       "tocHeading": "Eligible Areas",
+      "downloadPath": "/downloads/home/",
       "createdAt": "2020-02-11",
       "updatedAt": "2020-02-11"
-    }
+    },
+    "url": "/"
   },
   {
     "path": "/meetings/meeting-one",
@@ -180,7 +181,6 @@
           "id": "toc-test"
         }
       ],
-      "url": "/meetings/meeting-one",
       "title": "Meeting One",
       "showInSitemap": true,
       "showInNav": true,
@@ -188,6 +188,7 @@
       "showInSidebar": true,
       "showToc": true,
       "tocHeading": "Meeting One",
+      "downloadPath": "/downloads/meetings/meeting-one/",
       "createdAt": "2020-02-11",
       "updatedAt": "2020-02-11"
     }
@@ -208,10 +209,10 @@
           "id": "toc-ante-suos-corpus-triopeius-dominari-rogat-saepe"
         }
       ],
-      "url": "/sandbox",
       "title": "Areas Eligible for R3 Program Grants",
       "showInSitemap": false,
       "tocHeading": "Areas Eligible for R3 Program Grants",
+      "downloadPath": "/downloads/sandbox/",
       "createdAt": "2020-02-11",
       "updatedAt": "2020-02-11"
     }

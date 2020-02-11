@@ -2,8 +2,6 @@
 title: "Frequently Asked Questions"
 showToc: true
 showInSitemap: true
-tocSelectors: "h2, summary"
-tocHeaders: "h2"
 showInFooter: true
 showInNav: true
 showInSidebar: true
