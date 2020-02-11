@@ -1,17 +1,6 @@
 <template>
   <div>
     <base-content id="baseContentTop" class="mb-12" :loading="loading">
-      <template v-slot:title>
-        <v-container>
-          <v-row class="text-left">
-            <v-col cols="12">
-              <h1 class="page-title" :id="slugify(title)">
-                {{ $route.meta.title }}
-              </h1>
-            </v-col>
-          </v-row>
-        </v-container>
-      </template>
       <template v-slot:content>
         <v-container>
           <v-row>
