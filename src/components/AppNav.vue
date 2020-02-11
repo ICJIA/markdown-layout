@@ -15,6 +15,9 @@
           })
         "
       />
+      <div class="ml-4" style="font-size: 24px; font-weight: 900">
+        TITLE HERE
+      </div>
     </div>
     <v-spacer></v-spacer>
     <v-text-field
