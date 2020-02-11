@@ -1,0 +1,4604 @@
+[
+  {
+    "state_name": "Illinois",
+    "county_name": "Adams County",
+    "census_tract_geoid": 17001000400,
+    "census_tract_name": "Census Tract 4"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Adams County",
+    "census_tract_geoid": 17001000500,
+    "census_tract_name": "Census Tract 5"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Adams County",
+    "census_tract_geoid": 17001000700,
+    "census_tract_name": "Census Tract 7"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Adams County",
+    "census_tract_geoid": 17001000800,
+    "census_tract_name": "Census Tract 8"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Alexander County",
+    "census_tract_geoid": 17003957900,
+    "census_tract_name": "Census Tract 9579"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Bond County",
+    "census_tract_geoid": 17005951300,
+    "census_tract_name": "Census Tract 9513"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Boone County",
+    "census_tract_geoid": 17007010100,
+    "census_tract_name": "Census Tract 101"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Champaign County",
+    "census_tract_geoid": 17019000200,
+    "census_tract_name": "Census Tract 2"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Champaign County",
+    "census_tract_geoid": 17019000700,
+    "census_tract_name": "Census Tract 7"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Champaign County",
+    "census_tract_geoid": 17019000800,
+    "census_tract_name": "Census Tract 8"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Champaign County",
+    "census_tract_geoid": 17019000901,
+    "census_tract_name": "Census Tract 9.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Champaign County",
+    "census_tract_geoid": 17019005300,
+    "census_tract_name": "Census Tract 53"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Champaign County",
+    "census_tract_geoid": 17019005600,
+    "census_tract_name": "Census Tract 56"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Champaign County",
+    "census_tract_geoid": 17019005701,
+    "census_tract_name": "Census Tract 57.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Coles County",
+    "census_tract_geoid": 17029000400,
+    "census_tract_name": "Census Tract 4"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Coles County",
+    "census_tract_geoid": 17029001200,
+    "census_tract_name": "Census Tract 12"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031010100,
+    "census_tract_name": "Census Tract 101"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031010201,
+    "census_tract_name": "Census Tract 102.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031010202,
+    "census_tract_name": "Census Tract 102.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031010501,
+    "census_tract_name": "Census Tract 105.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031020500,
+    "census_tract_name": "Census Tract 205"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031020901,
+    "census_tract_name": "Census Tract 209.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031030300,
+    "census_tract_name": "Census Tract 303"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031031200,
+    "census_tract_name": "Census Tract 312"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031031501,
+    "census_tract_name": "Census Tract 315.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031031502,
+    "census_tract_name": "Census Tract 315.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031031700,
+    "census_tract_name": "Census Tract 317"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031080400,
+    "census_tract_name": "Census Tract 804"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031081900,
+    "census_tract_name": "Census Tract 819"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031140602,
+    "census_tract_name": "Census Tract 1406.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031190100,
+    "census_tract_name": "Census Tract 1901"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031190800,
+    "census_tract_name": "Census Tract 1908"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031190900,
+    "census_tract_name": "Census Tract 1909"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031191000,
+    "census_tract_name": "Census Tract 1910"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031191100,
+    "census_tract_name": "Census Tract 1911"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031191200,
+    "census_tract_name": "Census Tract 1912"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031191301,
+    "census_tract_name": "Census Tract 1913.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031191302,
+    "census_tract_name": "Census Tract 1913.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031200200,
+    "census_tract_name": "Census Tract 2002"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031200401,
+    "census_tract_name": "Census Tract 2004.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031200402,
+    "census_tract_name": "Census Tract 2004.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031210400,
+    "census_tract_name": "Census Tract 2104"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031210602,
+    "census_tract_name": "Census Tract 2106.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031220901,
+    "census_tract_name": "Census Tract 2209.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031221000,
+    "census_tract_name": "Census Tract 2210"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031222700,
+    "census_tract_name": "Census Tract 2227"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031222900,
+    "census_tract_name": "Census Tract 2229"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031230100,
+    "census_tract_name": "Census Tract 2301"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031230200,
+    "census_tract_name": "Census Tract 2302"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031230300,
+    "census_tract_name": "Census Tract 2303"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031230400,
+    "census_tract_name": "Census Tract 2304"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031230500,
+    "census_tract_name": "Census Tract 2305"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031230600,
+    "census_tract_name": "Census Tract 2306"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031230700,
+    "census_tract_name": "Census Tract 2307"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031230800,
+    "census_tract_name": "Census Tract 2308"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031230900,
+    "census_tract_name": "Census Tract 2309"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031231100,
+    "census_tract_name": "Census Tract 2311"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031231200,
+    "census_tract_name": "Census Tract 2312"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031231500,
+    "census_tract_name": "Census Tract 2315"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031240700,
+    "census_tract_name": "Census Tract 2407"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031240800,
+    "census_tract_name": "Census Tract 2408"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031240900,
+    "census_tract_name": "Census Tract 2409"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031241000,
+    "census_tract_name": "Census Tract 2410"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031241100,
+    "census_tract_name": "Census Tract 2411"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031242700,
+    "census_tract_name": "Census Tract 2427"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031250200,
+    "census_tract_name": "Census Tract 2502"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031250300,
+    "census_tract_name": "Census Tract 2503"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031250400,
+    "census_tract_name": "Census Tract 2504"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031250600,
+    "census_tract_name": "Census Tract 2506"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031250700,
+    "census_tract_name": "Census Tract 2507"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031250800,
+    "census_tract_name": "Census Tract 2508"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031251000,
+    "census_tract_name": "Census Tract 2510"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031251100,
+    "census_tract_name": "Census Tract 2511"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031251200,
+    "census_tract_name": "Census Tract 2512"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031251300,
+    "census_tract_name": "Census Tract 2513"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031251400,
+    "census_tract_name": "Census Tract 2514"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031251500,
+    "census_tract_name": "Census Tract 2515"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031251600,
+    "census_tract_name": "Census Tract 2516"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031251700,
+    "census_tract_name": "Census Tract 2517"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031251800,
+    "census_tract_name": "Census Tract 2518"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031251900,
+    "census_tract_name": "Census Tract 2519"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031252000,
+    "census_tract_name": "Census Tract 2520"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031252101,
+    "census_tract_name": "Census Tract 2521.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031252102,
+    "census_tract_name": "Census Tract 2521.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031252201,
+    "census_tract_name": "Census Tract 2522.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031252202,
+    "census_tract_name": "Census Tract 2522.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031260100,
+    "census_tract_name": "Census Tract 2601"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031260200,
+    "census_tract_name": "Census Tract 2602"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031260300,
+    "census_tract_name": "Census Tract 2603"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031260400,
+    "census_tract_name": "Census Tract 2604"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031260500,
+    "census_tract_name": "Census Tract 2605"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031260600,
+    "census_tract_name": "Census Tract 2606"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031260700,
+    "census_tract_name": "Census Tract 2607"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031260800,
+    "census_tract_name": "Census Tract 2608"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031260900,
+    "census_tract_name": "Census Tract 2609"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031261000,
+    "census_tract_name": "Census Tract 2610"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031270500,
+    "census_tract_name": "Census Tract 2705"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031271200,
+    "census_tract_name": "Census Tract 2712"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031271300,
+    "census_tract_name": "Census Tract 2713"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031271400,
+    "census_tract_name": "Census Tract 2714"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031271500,
+    "census_tract_name": "Census Tract 2715"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031271800,
+    "census_tract_name": "Census Tract 2718"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031280400,
+    "census_tract_name": "Census Tract 2804"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031280800,
+    "census_tract_name": "Census Tract 2808"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031280900,
+    "census_tract_name": "Census Tract 2809"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031282700,
+    "census_tract_name": "Census Tract 2827"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031283200,
+    "census_tract_name": "Census Tract 2832"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031283800,
+    "census_tract_name": "Census Tract 2838"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031290900,
+    "census_tract_name": "Census Tract 2909"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031291200,
+    "census_tract_name": "Census Tract 2912"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031292200,
+    "census_tract_name": "Census Tract 2922"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031292400,
+    "census_tract_name": "Census Tract 2924"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031292500,
+    "census_tract_name": "Census Tract 2925"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031300600,
+    "census_tract_name": "Census Tract 3006"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031300700,
+    "census_tract_name": "Census Tract 3007"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031300800,
+    "census_tract_name": "Census Tract 3008"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031300900,
+    "census_tract_name": "Census Tract 3009"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031301100,
+    "census_tract_name": "Census Tract 3011"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031301200,
+    "census_tract_name": "Census Tract 3012"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031301600,
+    "census_tract_name": "Census Tract 3016"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031310300,
+    "census_tract_name": "Census Tract 3103"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031310500,
+    "census_tract_name": "Census Tract 3105"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031310600,
+    "census_tract_name": "Census Tract 3106"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031310700,
+    "census_tract_name": "Census Tract 3107"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031340600,
+    "census_tract_name": "Census Tract 3406"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031350400,
+    "census_tract_name": "Census Tract 3504"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031351100,
+    "census_tract_name": "Census Tract 3511"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031351400,
+    "census_tract_name": "Census Tract 3514"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031351500,
+    "census_tract_name": "Census Tract 3515"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031360200,
+    "census_tract_name": "Census Tract 3602"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031380100,
+    "census_tract_name": "Census Tract 3801"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031380200,
+    "census_tract_name": "Census Tract 3802"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031380500,
+    "census_tract_name": "Census Tract 3805"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031380700,
+    "census_tract_name": "Census Tract 3807"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031381200,
+    "census_tract_name": "Census Tract 3812"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031381400,
+    "census_tract_name": "Census Tract 3814"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031381500,
+    "census_tract_name": "Census Tract 3815"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031381800,
+    "census_tract_name": "Census Tract 3818"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031381900,
+    "census_tract_name": "Census Tract 3819"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031390100,
+    "census_tract_name": "Census Tract 3901"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031390200,
+    "census_tract_name": "Census Tract 3902"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031390300,
+    "census_tract_name": "Census Tract 3903"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031390400,
+    "census_tract_name": "Census Tract 3904"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031390500,
+    "census_tract_name": "Census Tract 3905"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031400300,
+    "census_tract_name": "Census Tract 4003"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031400400,
+    "census_tract_name": "Census Tract 4004"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031400500,
+    "census_tract_name": "Census Tract 4005"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031400800,
+    "census_tract_name": "Census Tract 4008"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031410500,
+    "census_tract_name": "Census Tract 4105"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031420100,
+    "census_tract_name": "Census Tract 4201"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031420200,
+    "census_tract_name": "Census Tract 4202"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031420300,
+    "census_tract_name": "Census Tract 4203"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031420400,
+    "census_tract_name": "Census Tract 4204"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031420500,
+    "census_tract_name": "Census Tract 4205"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031420600,
+    "census_tract_name": "Census Tract 4206"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031420700,
+    "census_tract_name": "Census Tract 4207"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031420800,
+    "census_tract_name": "Census Tract 4208"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031421200,
+    "census_tract_name": "Census Tract 4212"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031430101,
+    "census_tract_name": "Census Tract 4301.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031430102,
+    "census_tract_name": "Census Tract 4301.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031430200,
+    "census_tract_name": "Census Tract 4302"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031430300,
+    "census_tract_name": "Census Tract 4303"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031430400,
+    "census_tract_name": "Census Tract 4304"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031430500,
+    "census_tract_name": "Census Tract 4305"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031430600,
+    "census_tract_name": "Census Tract 4306"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031430700,
+    "census_tract_name": "Census Tract 4307"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031430800,
+    "census_tract_name": "Census Tract 4308"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031430900,
+    "census_tract_name": "Census Tract 4309"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031431200,
+    "census_tract_name": "Census Tract 4312"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031431301,
+    "census_tract_name": "Census Tract 4313.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031431302,
+    "census_tract_name": "Census Tract 4313.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031431400,
+    "census_tract_name": "Census Tract 4314"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031440101,
+    "census_tract_name": "Census Tract 4401.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031440102,
+    "census_tract_name": "Census Tract 4401.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031440201,
+    "census_tract_name": "Census Tract 4402.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031440202,
+    "census_tract_name": "Census Tract 4402.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031440300,
+    "census_tract_name": "Census Tract 4403"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031440600,
+    "census_tract_name": "Census Tract 4406"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031440700,
+    "census_tract_name": "Census Tract 4407"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031440800,
+    "census_tract_name": "Census Tract 4408"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031440900,
+    "census_tract_name": "Census Tract 4409"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031450300,
+    "census_tract_name": "Census Tract 4503"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031460100,
+    "census_tract_name": "Census Tract 4601"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031460200,
+    "census_tract_name": "Census Tract 4602"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031460301,
+    "census_tract_name": "Census Tract 4603.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031460302,
+    "census_tract_name": "Census Tract 4603.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031460400,
+    "census_tract_name": "Census Tract 4604"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031460500,
+    "census_tract_name": "Census Tract 4605"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031460600,
+    "census_tract_name": "Census Tract 4606"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031460700,
+    "census_tract_name": "Census Tract 4607"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031461000,
+    "census_tract_name": "Census Tract 4610"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031470100,
+    "census_tract_name": "Census Tract 4701"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031480100,
+    "census_tract_name": "Census Tract 4801"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031480200,
+    "census_tract_name": "Census Tract 4802"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031480300,
+    "census_tract_name": "Census Tract 4803"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031480400,
+    "census_tract_name": "Census Tract 4804"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031480500,
+    "census_tract_name": "Census Tract 4805"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031490300,
+    "census_tract_name": "Census Tract 4903"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031490400,
+    "census_tract_name": "Census Tract 4904"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031490500,
+    "census_tract_name": "Census Tract 4905"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031490600,
+    "census_tract_name": "Census Tract 4906"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031490700,
+    "census_tract_name": "Census Tract 4907"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031490800,
+    "census_tract_name": "Census Tract 4908"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031490901,
+    "census_tract_name": "Census Tract 4909.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031490902,
+    "census_tract_name": "Census Tract 4909.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031491000,
+    "census_tract_name": "Census Tract 4910"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031491100,
+    "census_tract_name": "Census Tract 4911"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031491200,
+    "census_tract_name": "Census Tract 4912"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031491300,
+    "census_tract_name": "Census Tract 4913"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031491400,
+    "census_tract_name": "Census Tract 4914"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031500100,
+    "census_tract_name": "Census Tract 5001"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031500200,
+    "census_tract_name": "Census Tract 5002"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031500300,
+    "census_tract_name": "Census Tract 5003"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031510100,
+    "census_tract_name": "Census Tract 5101"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031510200,
+    "census_tract_name": "Census Tract 5102"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031510300,
+    "census_tract_name": "Census Tract 5103"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031520100,
+    "census_tract_name": "Census Tract 5201"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031520200,
+    "census_tract_name": "Census Tract 5202"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031520300,
+    "census_tract_name": "Census Tract 5203"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031530100,
+    "census_tract_name": "Census Tract 5301"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031530200,
+    "census_tract_name": "Census Tract 5302"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031530300,
+    "census_tract_name": "Census Tract 5303"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031530400,
+    "census_tract_name": "Census Tract 5304"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031530501,
+    "census_tract_name": "Census Tract 5305.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031530502,
+    "census_tract_name": "Census Tract 5305.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031530503,
+    "census_tract_name": "Census Tract 5305.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031530600,
+    "census_tract_name": "Census Tract 5306"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031540101,
+    "census_tract_name": "Census Tract 5401.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031540102,
+    "census_tract_name": "Census Tract 5401.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031560200,
+    "census_tract_name": "Census Tract 5602"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031580100,
+    "census_tract_name": "Census Tract 5801"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031580200,
+    "census_tract_name": "Census Tract 5802"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031580300,
+    "census_tract_name": "Census Tract 5803"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031580501,
+    "census_tract_name": "Census Tract 5805.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031580600,
+    "census_tract_name": "Census Tract 5806"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031580800,
+    "census_tract_name": "Census Tract 5808"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031590500,
+    "census_tract_name": "Census Tract 5905"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031590600,
+    "census_tract_name": "Census Tract 5906"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031610300,
+    "census_tract_name": "Census Tract 6103"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031610400,
+    "census_tract_name": "Census Tract 6104"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031611000,
+    "census_tract_name": "Census Tract 6110"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031611100,
+    "census_tract_name": "Census Tract 6111"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031611200,
+    "census_tract_name": "Census Tract 6112"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031611300,
+    "census_tract_name": "Census Tract 6113"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031611400,
+    "census_tract_name": "Census Tract 6114"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031611500,
+    "census_tract_name": "Census Tract 6115"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031611600,
+    "census_tract_name": "Census Tract 6116"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031611700,
+    "census_tract_name": "Census Tract 6117"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031611800,
+    "census_tract_name": "Census Tract 6118"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031611900,
+    "census_tract_name": "Census Tract 6119"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031612000,
+    "census_tract_name": "Census Tract 6120"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031612100,
+    "census_tract_name": "Census Tract 6121"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031630100,
+    "census_tract_name": "Census Tract 6301"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031630200,
+    "census_tract_name": "Census Tract 6302"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031630300,
+    "census_tract_name": "Census Tract 6303"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031630400,
+    "census_tract_name": "Census Tract 6304"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031630500,
+    "census_tract_name": "Census Tract 6305"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031640800,
+    "census_tract_name": "Census Tract 6408"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031650100,
+    "census_tract_name": "Census Tract 6501"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031660301,
+    "census_tract_name": "Census Tract 6603.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031660302,
+    "census_tract_name": "Census Tract 6603.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031660400,
+    "census_tract_name": "Census Tract 6604"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031660500,
+    "census_tract_name": "Census Tract 6605"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031660600,
+    "census_tract_name": "Census Tract 6606"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031660700,
+    "census_tract_name": "Census Tract 6607"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031660800,
+    "census_tract_name": "Census Tract 6608"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031660900,
+    "census_tract_name": "Census Tract 6609"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031661000,
+    "census_tract_name": "Census Tract 6610"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031661100,
+    "census_tract_name": "Census Tract 6611"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031670100,
+    "census_tract_name": "Census Tract 6701"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031670200,
+    "census_tract_name": "Census Tract 6702"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031670300,
+    "census_tract_name": "Census Tract 6703"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031670400,
+    "census_tract_name": "Census Tract 6704"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031670500,
+    "census_tract_name": "Census Tract 6705"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031670600,
+    "census_tract_name": "Census Tract 6706"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031670700,
+    "census_tract_name": "Census Tract 6707"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031670800,
+    "census_tract_name": "Census Tract 6708"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031670900,
+    "census_tract_name": "Census Tract 6709"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031671100,
+    "census_tract_name": "Census Tract 6711"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031671200,
+    "census_tract_name": "Census Tract 6712"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031671300,
+    "census_tract_name": "Census Tract 6713"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031671400,
+    "census_tract_name": "Census Tract 6714"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031671500,
+    "census_tract_name": "Census Tract 6715"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031671600,
+    "census_tract_name": "Census Tract 6716"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031671800,
+    "census_tract_name": "Census Tract 6718"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031671900,
+    "census_tract_name": "Census Tract 6719"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031672000,
+    "census_tract_name": "Census Tract 6720"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031680500,
+    "census_tract_name": "Census Tract 6805"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031680600,
+    "census_tract_name": "Census Tract 6806"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031680900,
+    "census_tract_name": "Census Tract 6809"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031681000,
+    "census_tract_name": "Census Tract 6810"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031681100,
+    "census_tract_name": "Census Tract 6811"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031681200,
+    "census_tract_name": "Census Tract 6812"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031681300,
+    "census_tract_name": "Census Tract 6813"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031681400,
+    "census_tract_name": "Census Tract 6814"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031690300,
+    "census_tract_name": "Census Tract 6903"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031690400,
+    "census_tract_name": "Census Tract 6904"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031690500,
+    "census_tract_name": "Census Tract 6905"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031690900,
+    "census_tract_name": "Census Tract 6909"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031691000,
+    "census_tract_name": "Census Tract 6910"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031691100,
+    "census_tract_name": "Census Tract 6911"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031691200,
+    "census_tract_name": "Census Tract 6912"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031691300,
+    "census_tract_name": "Census Tract 6913"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031691400,
+    "census_tract_name": "Census Tract 6914"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031691500,
+    "census_tract_name": "Census Tract 6915"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031700100,
+    "census_tract_name": "Census Tract 7001"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031700401,
+    "census_tract_name": "Census Tract 7004.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031700402,
+    "census_tract_name": "Census Tract 7004.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031700502,
+    "census_tract_name": "Census Tract 7005.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031710100,
+    "census_tract_name": "Census Tract 7101"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031710200,
+    "census_tract_name": "Census Tract 7102"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031710300,
+    "census_tract_name": "Census Tract 7103"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031710400,
+    "census_tract_name": "Census Tract 7104"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031710500,
+    "census_tract_name": "Census Tract 7105"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031710600,
+    "census_tract_name": "Census Tract 7106"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031710700,
+    "census_tract_name": "Census Tract 7107"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031710800,
+    "census_tract_name": "Census Tract 7108"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031710900,
+    "census_tract_name": "Census Tract 7109"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031711000,
+    "census_tract_name": "Census Tract 7110"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031711100,
+    "census_tract_name": "Census Tract 7111"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031711200,
+    "census_tract_name": "Census Tract 7112"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031711300,
+    "census_tract_name": "Census Tract 7113"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031711400,
+    "census_tract_name": "Census Tract 7114"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031711500,
+    "census_tract_name": "Census Tract 7115"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031730100,
+    "census_tract_name": "Census Tract 7301"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031730201,
+    "census_tract_name": "Census Tract 7302.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031730202,
+    "census_tract_name": "Census Tract 7302.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031730300,
+    "census_tract_name": "Census Tract 7303"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031730400,
+    "census_tract_name": "Census Tract 7304"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031730500,
+    "census_tract_name": "Census Tract 7305"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031730600,
+    "census_tract_name": "Census Tract 7306"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031730700,
+    "census_tract_name": "Census Tract 7307"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031750100,
+    "census_tract_name": "Census Tract 7501"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031750500,
+    "census_tract_name": "Census Tract 7505"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031750600,
+    "census_tract_name": "Census Tract 7506"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031804405,
+    "census_tract_name": "Census Tract 8044.05"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031804508,
+    "census_tract_name": "Census Tract 8045.08"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031809200,
+    "census_tract_name": "Census Tract 8092"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031811302,
+    "census_tract_name": "Census Tract 8113.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031813301,
+    "census_tract_name": "Census Tract 8133.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031813302,
+    "census_tract_name": "Census Tract 8133.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031813701,
+    "census_tract_name": "Census Tract 8137.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031813900,
+    "census_tract_name": "Census Tract 8139"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031814200,
+    "census_tract_name": "Census Tract 8142"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031814300,
+    "census_tract_name": "Census Tract 8143"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031816900,
+    "census_tract_name": "Census Tract 8169"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031817000,
+    "census_tract_name": "Census Tract 8170"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031817101,
+    "census_tract_name": "Census Tract 8171.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031817102,
+    "census_tract_name": "Census Tract 8171.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031817200,
+    "census_tract_name": "Census Tract 8172"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031817300,
+    "census_tract_name": "Census Tract 8173"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031817500,
+    "census_tract_name": "Census Tract 8175"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031817600,
+    "census_tract_name": "Census Tract 8176"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031817700,
+    "census_tract_name": "Census Tract 8177"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031817900,
+    "census_tract_name": "Census Tract 8179"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031818000,
+    "census_tract_name": "Census Tract 8180"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031820400,
+    "census_tract_name": "Census Tract 8204"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031820605,
+    "census_tract_name": "Census Tract 8206.05"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031821200,
+    "census_tract_name": "Census Tract 8212"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031821300,
+    "census_tract_name": "Census Tract 8213"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031821401,
+    "census_tract_name": "Census Tract 8214.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031821402,
+    "census_tract_name": "Census Tract 8214.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031821500,
+    "census_tract_name": "Census Tract 8215"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031823603,
+    "census_tract_name": "Census Tract 8236.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031824300,
+    "census_tract_name": "Census Tract 8243"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031824800,
+    "census_tract_name": "Census Tract 8248"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031824900,
+    "census_tract_name": "Census Tract 8249"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031825501,
+    "census_tract_name": "Census Tract 8255.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031825504,
+    "census_tract_name": "Census Tract 8255.04"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031825505,
+    "census_tract_name": "Census Tract 8255.05"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031825600,
+    "census_tract_name": "Census Tract 8256"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031825700,
+    "census_tract_name": "Census Tract 8257"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031825801,
+    "census_tract_name": "Census Tract 8258.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031825802,
+    "census_tract_name": "Census Tract 8258.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031825803,
+    "census_tract_name": "Census Tract 8258.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031825900,
+    "census_tract_name": "Census Tract 8259"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826000,
+    "census_tract_name": "Census Tract 8260"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826100,
+    "census_tract_name": "Census Tract 8261"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826201,
+    "census_tract_name": "Census Tract 8262.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826202,
+    "census_tract_name": "Census Tract 8262.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826301,
+    "census_tract_name": "Census Tract 8263.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826303,
+    "census_tract_name": "Census Tract 8263.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826304,
+    "census_tract_name": "Census Tract 8263.04"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826401,
+    "census_tract_name": "Census Tract 8264.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826402,
+    "census_tract_name": "Census Tract 8264.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826500,
+    "census_tract_name": "Census Tract 8265"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826600,
+    "census_tract_name": "Census Tract 8266"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826700,
+    "census_tract_name": "Census Tract 8267"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826800,
+    "census_tract_name": "Census Tract 8268"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826901,
+    "census_tract_name": "Census Tract 8269.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031826902,
+    "census_tract_name": "Census Tract 8269.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827000,
+    "census_tract_name": "Census Tract 8270"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827100,
+    "census_tract_name": "Census Tract 8271"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827200,
+    "census_tract_name": "Census Tract 8272"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827300,
+    "census_tract_name": "Census Tract 8273"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827400,
+    "census_tract_name": "Census Tract 8274"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827500,
+    "census_tract_name": "Census Tract 8275"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827600,
+    "census_tract_name": "Census Tract 8276"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827700,
+    "census_tract_name": "Census Tract 8277"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827801,
+    "census_tract_name": "Census Tract 8278.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827805,
+    "census_tract_name": "Census Tract 8278.05"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827901,
+    "census_tract_name": "Census Tract 8279.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031827902,
+    "census_tract_name": "Census Tract 8279.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031828000,
+    "census_tract_name": "Census Tract 8280"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031828100,
+    "census_tract_name": "Census Tract 8281"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031828503,
+    "census_tract_name": "Census Tract 8285.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031828504,
+    "census_tract_name": "Census Tract 8285.04"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031828506,
+    "census_tract_name": "Census Tract 8285.06"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031828900,
+    "census_tract_name": "Census Tract 8289"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031829000,
+    "census_tract_name": "Census Tract 8290"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031829100,
+    "census_tract_name": "Census Tract 8291"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031829200,
+    "census_tract_name": "Census Tract 8292"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031829301,
+    "census_tract_name": "Census Tract 8293.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031829302,
+    "census_tract_name": "Census Tract 8293.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031829401,
+    "census_tract_name": "Census Tract 8294.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031829402,
+    "census_tract_name": "Census Tract 8294.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031829500,
+    "census_tract_name": "Census Tract 8295"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031829700,
+    "census_tract_name": "Census Tract 8297"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031829902,
+    "census_tract_name": "Census Tract 8299.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031830003,
+    "census_tract_name": "Census Tract 8300.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031830100,
+    "census_tract_name": "Census Tract 8301"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031830201,
+    "census_tract_name": "Census Tract 8302.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031830202,
+    "census_tract_name": "Census Tract 8302.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031830300,
+    "census_tract_name": "Census Tract 8303"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031830500,
+    "census_tract_name": "Census Tract 8305"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031830600,
+    "census_tract_name": "Census Tract 8306"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031830700,
+    "census_tract_name": "Census Tract 8307"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031831200,
+    "census_tract_name": "Census Tract 8312"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031831300,
+    "census_tract_name": "Census Tract 8313"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031831400,
+    "census_tract_name": "Census Tract 8314"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031833900,
+    "census_tract_name": "Census Tract 8339"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031834000,
+    "census_tract_name": "Census Tract 8340"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031834200,
+    "census_tract_name": "Census Tract 8342"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031834300,
+    "census_tract_name": "Census Tract 8343"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031834400,
+    "census_tract_name": "Census Tract 8344"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031834500,
+    "census_tract_name": "Census Tract 8345"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031834600,
+    "census_tract_name": "Census Tract 8346"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031834700,
+    "census_tract_name": "Census Tract 8347"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031834800,
+    "census_tract_name": "Census Tract 8348"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031834900,
+    "census_tract_name": "Census Tract 8349"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031835000,
+    "census_tract_name": "Census Tract 8350"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031835100,
+    "census_tract_name": "Census Tract 8351"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031835500,
+    "census_tract_name": "Census Tract 8355"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031835600,
+    "census_tract_name": "Census Tract 8356"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031835800,
+    "census_tract_name": "Census Tract 8358"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031835900,
+    "census_tract_name": "Census Tract 8359"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031836000,
+    "census_tract_name": "Census Tract 8360"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031836100,
+    "census_tract_name": "Census Tract 8361"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031836400,
+    "census_tract_name": "Census Tract 8364"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031836500,
+    "census_tract_name": "Census Tract 8365"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031836600,
+    "census_tract_name": "Census Tract 8366"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031836700,
+    "census_tract_name": "Census Tract 8367"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031836800,
+    "census_tract_name": "Census Tract 8368"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031836900,
+    "census_tract_name": "Census Tract 8369"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031837000,
+    "census_tract_name": "Census Tract 8370"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031837100,
+    "census_tract_name": "Census Tract 8371"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031837300,
+    "census_tract_name": "Census Tract 8373"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031837400,
+    "census_tract_name": "Census Tract 8374"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031837800,
+    "census_tract_name": "Census Tract 8378"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031838000,
+    "census_tract_name": "Census Tract 8380"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031838100,
+    "census_tract_name": "Census Tract 8381"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031838300,
+    "census_tract_name": "Census Tract 8383"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031838600,
+    "census_tract_name": "Census Tract 8386"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031838700,
+    "census_tract_name": "Census Tract 8387"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031838800,
+    "census_tract_name": "Census Tract 8388"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031839200,
+    "census_tract_name": "Census Tract 8392"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031839500,
+    "census_tract_name": "Census Tract 8395"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031840300,
+    "census_tract_name": "Census Tract 8403"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031840400,
+    "census_tract_name": "Census Tract 8404"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031840700,
+    "census_tract_name": "Census Tract 8407"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031840800,
+    "census_tract_name": "Census Tract 8408"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031841000,
+    "census_tract_name": "Census Tract 8410"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031841200,
+    "census_tract_name": "Census Tract 8412"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031841300,
+    "census_tract_name": "Census Tract 8413"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031841400,
+    "census_tract_name": "Census Tract 8414"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031841500,
+    "census_tract_name": "Census Tract 8415"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031841600,
+    "census_tract_name": "Census Tract 8416"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031841700,
+    "census_tract_name": "Census Tract 8417"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031841800,
+    "census_tract_name": "Census Tract 8418"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031841900,
+    "census_tract_name": "Census Tract 8419"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031842100,
+    "census_tract_name": "Census Tract 8421"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031842400,
+    "census_tract_name": "Census Tract 8424"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031842500,
+    "census_tract_name": "Census Tract 8425"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031842600,
+    "census_tract_name": "Census Tract 8426"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031842800,
+    "census_tract_name": "Census Tract 8428"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031842900,
+    "census_tract_name": "Census Tract 8429"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031843000,
+    "census_tract_name": "Census Tract 8430"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031843100,
+    "census_tract_name": "Census Tract 8431"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031843200,
+    "census_tract_name": "Census Tract 8432"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031843300,
+    "census_tract_name": "Census Tract 8433"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031843400,
+    "census_tract_name": "Census Tract 8434"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031843500,
+    "census_tract_name": "Census Tract 8435"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031843600,
+    "census_tract_name": "Census Tract 8436"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031843800,
+    "census_tract_name": "Census Tract 8438"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Cook County",
+    "census_tract_geoid": 17031843900,
+    "census_tract_name": "Census Tract 8439"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Crawford County",
+    "census_tract_geoid": 17033880400,
+    "census_tract_name": "Census Tract 8804"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "De Witt County",
+    "census_tract_geoid": 17039971800,
+    "census_tract_name": "Census Tract 9718"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "DeKalb County",
+    "census_tract_geoid": 17037001001,
+    "census_tract_name": "Census Tract 10.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "DeKalb County",
+    "census_tract_geoid": 17037001300,
+    "census_tract_name": "Census Tract 13"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "DuPage County",
+    "census_tract_geoid": 17043841108,
+    "census_tract_name": "Census Tract 8411.08"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "DuPage County",
+    "census_tract_geoid": 17043842604,
+    "census_tract_name": "Census Tract 8426.04"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Edgar County",
+    "census_tract_geoid": 17045070300,
+    "census_tract_name": "Census Tract 703"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Effingham County",
+    "census_tract_geoid": 17049950800,
+    "census_tract_name": "Census Tract 9508"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Fayette County",
+    "census_tract_geoid": 17051950500,
+    "census_tract_name": "Census Tract 9505"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Fayette County",
+    "census_tract_geoid": 17051950900,
+    "census_tract_name": "Census Tract 9509"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Franklin County",
+    "census_tract_geoid": 17055040600,
+    "census_tract_name": "Census Tract 406"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Fulton County",
+    "census_tract_geoid": 17057953400,
+    "census_tract_name": "Census Tract 9534"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Greene County",
+    "census_tract_geoid": 17061973700,
+    "census_tract_name": "Census Tract 9737"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Henry County",
+    "census_tract_geoid": 17073030600,
+    "census_tract_name": "Census Tract 306"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Jackson County",
+    "census_tract_geoid": 17077010700,
+    "census_tract_name": "Census Tract 107"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Jackson County",
+    "census_tract_geoid": 17077010900,
+    "census_tract_name": "Census Tract 109"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Jackson County",
+    "census_tract_geoid": 17077011200,
+    "census_tract_name": "Census Tract 112"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Jefferson County",
+    "census_tract_geoid": 17081050900,
+    "census_tract_name": "Census Tract 509"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Jefferson County",
+    "census_tract_geoid": 17081051000,
+    "census_tract_name": "Census Tract 510"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Jefferson County",
+    "census_tract_geoid": 17081051100,
+    "census_tract_name": "Census Tract 511"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Jersey County",
+    "census_tract_geoid": 17083010100,
+    "census_tract_name": "Census Tract 101"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089850301,
+    "census_tract_name": "Census Tract 8503.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089850800,
+    "census_tract_name": "Census Tract 8508"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089851301,
+    "census_tract_name": "Census Tract 8513.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089851302,
+    "census_tract_name": "Census Tract 8513.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089851400,
+    "census_tract_name": "Census Tract 8514"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089852904,
+    "census_tract_name": "Census Tract 8529.04"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089852905,
+    "census_tract_name": "Census Tract 8529.05"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089853007,
+    "census_tract_name": "Census Tract 8530.07"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089853200,
+    "census_tract_name": "Census Tract 8532"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089853600,
+    "census_tract_name": "Census Tract 8536"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089854002,
+    "census_tract_name": "Census Tract 8540.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089854100,
+    "census_tract_name": "Census Tract 8541"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089854200,
+    "census_tract_name": "Census Tract 8542"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089854600,
+    "census_tract_name": "Census Tract 8546"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kane County",
+    "census_tract_geoid": 17089854700,
+    "census_tract_name": "Census Tract 8547"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kankakee County",
+    "census_tract_geoid": 17091011000,
+    "census_tract_name": "Census Tract 110"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kankakee County",
+    "census_tract_geoid": 17091011400,
+    "census_tract_name": "Census Tract 114"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kankakee County",
+    "census_tract_geoid": 17091011500,
+    "census_tract_name": "Census Tract 115"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kankakee County",
+    "census_tract_geoid": 17091011600,
+    "census_tract_name": "Census Tract 116"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kankakee County",
+    "census_tract_geoid": 17091011700,
+    "census_tract_name": "Census Tract 117"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kankakee County",
+    "census_tract_geoid": 17091012300,
+    "census_tract_name": "Census Tract 123"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Kankakee County",
+    "census_tract_geoid": 17091012400,
+    "census_tract_name": "Census Tract 124"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Knox County",
+    "census_tract_geoid": 17095000700,
+    "census_tract_name": "Census Tract 7"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Knox County",
+    "census_tract_geoid": 17095000900,
+    "census_tract_name": "Census Tract 9"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Knox County",
+    "census_tract_geoid": 17095001000,
+    "census_tract_name": "Census Tract 10"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Knox County",
+    "census_tract_geoid": 17095001100,
+    "census_tract_name": "Census Tract 11"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097860200,
+    "census_tract_name": "Census Tract 8602"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097860301,
+    "census_tract_name": "Census Tract 8603.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097860302,
+    "census_tract_name": "Census Tract 8603.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097860500,
+    "census_tract_name": "Census Tract 8605"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862000,
+    "census_tract_name": "Census Tract 8620"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862100,
+    "census_tract_name": "Census Tract 8621"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862200,
+    "census_tract_name": "Census Tract 8622"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862300,
+    "census_tract_name": "Census Tract 8623"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862401,
+    "census_tract_name": "Census Tract 8624.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862502,
+    "census_tract_name": "Census Tract 8625.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862605,
+    "census_tract_name": "Census Tract 8626.05"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862700,
+    "census_tract_name": "Census Tract 8627"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862800,
+    "census_tract_name": "Census Tract 8628"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862901,
+    "census_tract_name": "Census Tract 8629.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097862902,
+    "census_tract_name": "Census Tract 8629.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097863100,
+    "census_tract_name": "Census Tract 8631"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097863201,
+    "census_tract_name": "Census Tract 8632.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lake County",
+    "census_tract_geoid": 17097866100,
+    "census_tract_name": "Census Tract 8661"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "LaSalle County",
+    "census_tract_geoid": 17099962600,
+    "census_tract_name": "Census Tract 9626"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "LaSalle County",
+    "census_tract_geoid": 17099963300,
+    "census_tract_name": "Census Tract 9633"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "LaSalle County",
+    "census_tract_geoid": 17099964200,
+    "census_tract_name": "Census Tract 9642"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "LaSalle County",
+    "census_tract_geoid": 17099964300,
+    "census_tract_name": "Census Tract 9643"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Lee County",
+    "census_tract_geoid": 17103000600,
+    "census_tract_name": "Census Tract 6"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Livingston County",
+    "census_tract_geoid": 17105960500,
+    "census_tract_name": "Census Tract 9605"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Livingston County",
+    "census_tract_geoid": 17105960600,
+    "census_tract_name": "Census Tract 9606"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Logan County",
+    "census_tract_geoid": 17107953200,
+    "census_tract_name": "Census Tract 9532"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Logan County",
+    "census_tract_geoid": 17107953300,
+    "census_tract_name": "Census Tract 9533"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115000200,
+    "census_tract_name": "Census Tract 2"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115000300,
+    "census_tract_name": "Census Tract 3"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115000400,
+    "census_tract_name": "Census Tract 4"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115000500,
+    "census_tract_name": "Census Tract 5"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115000600,
+    "census_tract_name": "Census Tract 6"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115000900,
+    "census_tract_name": "Census Tract 9"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115001000,
+    "census_tract_name": "Census Tract 10"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115001200,
+    "census_tract_name": "Census Tract 12"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115001900,
+    "census_tract_name": "Census Tract 19"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115002000,
+    "census_tract_name": "Census Tract 20"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115002100,
+    "census_tract_name": "Census Tract 21"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115002903,
+    "census_tract_name": "Census Tract 29.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macon County",
+    "census_tract_geoid": 17115003100,
+    "census_tract_name": "Census Tract 31"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Macoupin County",
+    "census_tract_geoid": 17117956400,
+    "census_tract_name": "Census Tract 9564"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119400102,
+    "census_tract_name": "Census Tract 4001.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119400600,
+    "census_tract_name": "Census Tract 4006"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119400700,
+    "census_tract_name": "Census Tract 4007"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119401400,
+    "census_tract_name": "Census Tract 4014"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119401500,
+    "census_tract_name": "Census Tract 4015"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119401701,
+    "census_tract_name": "Census Tract 4017.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119402100,
+    "census_tract_name": "Census Tract 4021"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119402200,
+    "census_tract_name": "Census Tract 4022"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119402400,
+    "census_tract_name": "Census Tract 4024"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119402500,
+    "census_tract_name": "Census Tract 4025"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119402600,
+    "census_tract_name": "Census Tract 4026"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119403200,
+    "census_tract_name": "Census Tract 4032"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119403402,
+    "census_tract_name": "Census Tract 4034.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Madison County",
+    "census_tract_geoid": 17119404000,
+    "census_tract_name": "Census Tract 4040"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Marion County",
+    "census_tract_geoid": 17121951800,
+    "census_tract_name": "Census Tract 9518"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Marion County",
+    "census_tract_geoid": 17121952600,
+    "census_tract_name": "Census Tract 9526"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Marion County",
+    "census_tract_geoid": 17121952700,
+    "census_tract_name": "Census Tract 9527"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Mason County",
+    "census_tract_geoid": 17125956500,
+    "census_tract_name": "Census Tract 9565"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McDonough County",
+    "census_tract_geoid": 17109010600,
+    "census_tract_name": "Census Tract 106"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113000102,
+    "census_tract_name": "Census Tract 1.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113000301,
+    "census_tract_name": "Census Tract 3.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113000400,
+    "census_tract_name": "Census Tract 4"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113000501,
+    "census_tract_name": "Census Tract 5.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113001301,
+    "census_tract_name": "Census Tract 13.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113001303,
+    "census_tract_name": "Census Tract 13.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113001403,
+    "census_tract_name": "Census Tract 14.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113001404,
+    "census_tract_name": "Census Tract 14.04"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113001500,
+    "census_tract_name": "Census Tract 15"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113001600,
+    "census_tract_name": "Census Tract 16"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113001700,
+    "census_tract_name": "Census Tract 17"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "McLean County",
+    "census_tract_geoid": 17113005900,
+    "census_tract_name": "Census Tract 59"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Montgomery County",
+    "census_tract_geoid": 17135957900,
+    "census_tract_name": "Census Tract 9579"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Morgan County",
+    "census_tract_geoid": 17137951600,
+    "census_tract_name": "Census Tract 9516"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Morgan County",
+    "census_tract_geoid": 17137951700,
+    "census_tract_name": "Census Tract 9517"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Ogle County",
+    "census_tract_geoid": 17141961600,
+    "census_tract_name": "Census Tract 9616"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143000100,
+    "census_tract_name": "Census Tract 1"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143000200,
+    "census_tract_name": "Census Tract 2"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143000300,
+    "census_tract_name": "Census Tract 3"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143000500,
+    "census_tract_name": "Census Tract 5"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143000600,
+    "census_tract_name": "Census Tract 6"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143000900,
+    "census_tract_name": "Census Tract 9"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143001200,
+    "census_tract_name": "Census Tract 12"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143001300,
+    "census_tract_name": "Census Tract 13"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143001500,
+    "census_tract_name": "Census Tract 15"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143001600,
+    "census_tract_name": "Census Tract 16"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143001800,
+    "census_tract_name": "Census Tract 18"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143002100,
+    "census_tract_name": "Census Tract 21"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143002200,
+    "census_tract_name": "Census Tract 22"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143002400,
+    "census_tract_name": "Census Tract 24"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143002500,
+    "census_tract_name": "Census Tract 25"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143002701,
+    "census_tract_name": "Census Tract 27.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143002702,
+    "census_tract_name": "Census Tract 27.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143004102,
+    "census_tract_name": "Census Tract 41.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Peoria County",
+    "census_tract_geoid": 17143005000,
+    "census_tract_name": "Census Tract 50"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Pulaski County",
+    "census_tract_geoid": 17153971100,
+    "census_tract_name": "Census Tract 9711"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Richland County",
+    "census_tract_geoid": 17159978000,
+    "census_tract_name": "Census Tract 9780"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Rock Island County",
+    "census_tract_geoid": 17161020600,
+    "census_tract_name": "Census Tract 206"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Rock Island County",
+    "census_tract_geoid": 17161020700,
+    "census_tract_name": "Census Tract 207"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Rock Island County",
+    "census_tract_geoid": 17161022600,
+    "census_tract_name": "Census Tract 226"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Rock Island County",
+    "census_tract_geoid": 17161023300,
+    "census_tract_name": "Census Tract 233"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Rock Island County",
+    "census_tract_geoid": 17161023500,
+    "census_tract_name": "Census Tract 235"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Rock Island County",
+    "census_tract_geoid": 17161023600,
+    "census_tract_name": "Census Tract 236"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Rock Island County",
+    "census_tract_geoid": 17161023700,
+    "census_tract_name": "Census Tract 237"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Rock Island County",
+    "census_tract_geoid": 17161024400,
+    "census_tract_name": "Census Tract 244"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Rock Island County",
+    "census_tract_geoid": 17161024500,
+    "census_tract_name": "Census Tract 245"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Saline County",
+    "census_tract_geoid": 17165955800,
+    "census_tract_name": "Census Tract 9558"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Saline County",
+    "census_tract_geoid": 17165955900,
+    "census_tract_name": "Census Tract 9559"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Saline County",
+    "census_tract_geoid": 17165956000,
+    "census_tract_name": "Census Tract 9560"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167000100,
+    "census_tract_name": "Census Tract 1"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167000202,
+    "census_tract_name": "Census Tract 2.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167000300,
+    "census_tract_name": "Census Tract 3"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167000400,
+    "census_tract_name": "Census Tract 4"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167000503,
+    "census_tract_name": "Census Tract 5.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167000504,
+    "census_tract_name": "Census Tract 5.04"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167000600,
+    "census_tract_name": "Census Tract 6"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167000700,
+    "census_tract_name": "Census Tract 7"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167000800,
+    "census_tract_name": "Census Tract 8"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167000900,
+    "census_tract_name": "Census Tract 9"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167001300,
+    "census_tract_name": "Census Tract 13"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167001500,
+    "census_tract_name": "Census Tract 15"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167001600,
+    "census_tract_name": "Census Tract 16"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167001700,
+    "census_tract_name": "Census Tract 17"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167001800,
+    "census_tract_name": "Census Tract 18"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167001900,
+    "census_tract_name": "Census Tract 19"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167002300,
+    "census_tract_name": "Census Tract 23"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167002400,
+    "census_tract_name": "Census Tract 24"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167002500,
+    "census_tract_name": "Census Tract 25"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167002600,
+    "census_tract_name": "Census Tract 26"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167002700,
+    "census_tract_name": "Census Tract 27"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167002801,
+    "census_tract_name": "Census Tract 28.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Sangamon County",
+    "census_tract_geoid": 17167003801,
+    "census_tract_name": "Census Tract 38.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Scott County",
+    "census_tract_geoid": 17171970600,
+    "census_tract_name": "Census Tract 9706"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163500400,
+    "census_tract_name": "Census Tract 5004"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163500500,
+    "census_tract_name": "Census Tract 5005"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163500900,
+    "census_tract_name": "Census Tract 5009"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163501100,
+    "census_tract_name": "Census Tract 5011"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163501200,
+    "census_tract_name": "Census Tract 5012"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163501300,
+    "census_tract_name": "Census Tract 5013"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163501400,
+    "census_tract_name": "Census Tract 5014"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163501502,
+    "census_tract_name": "Census Tract 5015.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163501700,
+    "census_tract_name": "Census Tract 5017"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163502200,
+    "census_tract_name": "Census Tract 5022"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163502401,
+    "census_tract_name": "Census Tract 5024.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163502404,
+    "census_tract_name": "Census Tract 5024.04"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163502500,
+    "census_tract_name": "Census Tract 5025"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163502602,
+    "census_tract_name": "Census Tract 5026.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163502603,
+    "census_tract_name": "Census Tract 5026.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163502700,
+    "census_tract_name": "Census Tract 5027"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163502800,
+    "census_tract_name": "Census Tract 5028"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163502900,
+    "census_tract_name": "Census Tract 5029"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163504500,
+    "census_tract_name": "Census Tract 5045"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "St. Clair County",
+    "census_tract_geoid": 17163504600,
+    "census_tract_name": "Census Tract 5046"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Stephenson County",
+    "census_tract_geoid": 17177000700,
+    "census_tract_name": "Census Tract 7"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Stephenson County",
+    "census_tract_geoid": 17177000800,
+    "census_tract_name": "Census Tract 8"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Stephenson County",
+    "census_tract_geoid": 17177001200,
+    "census_tract_name": "Census Tract 12"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Stephenson County",
+    "census_tract_geoid": 17177001300,
+    "census_tract_name": "Census Tract 13"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Tazewell County",
+    "census_tract_geoid": 17179020800,
+    "census_tract_name": "Census Tract 208"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Tazewell County",
+    "census_tract_geoid": 17179020900,
+    "census_tract_name": "Census Tract 209"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Vermilion County",
+    "census_tract_geoid": 17183000100,
+    "census_tract_name": "Census Tract 1"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Vermilion County",
+    "census_tract_geoid": 17183000200,
+    "census_tract_name": "Census Tract 2"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Vermilion County",
+    "census_tract_geoid": 17183000300,
+    "census_tract_name": "Census Tract 3"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Vermilion County",
+    "census_tract_geoid": 17183000400,
+    "census_tract_name": "Census Tract 4"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Vermilion County",
+    "census_tract_geoid": 17183000500,
+    "census_tract_name": "Census Tract 5"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Vermilion County",
+    "census_tract_geoid": 17183000600,
+    "census_tract_name": "Census Tract 6"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Vermilion County",
+    "census_tract_geoid": 17183010701,
+    "census_tract_name": "Census Tract 107.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Vermilion County",
+    "census_tract_geoid": 17183011200,
+    "census_tract_name": "Census Tract 112"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Warren County",
+    "census_tract_geoid": 17187870500,
+    "census_tract_name": "Census Tract 8705"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "White County",
+    "census_tract_geoid": 17193958000,
+    "census_tract_name": "Census Tract 9580"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Whiteside County",
+    "census_tract_geoid": 17195001000,
+    "census_tract_name": "Census Tract 10"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197880106,
+    "census_tract_name": "Census Tract 8801.06"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197880702,
+    "census_tract_name": "Census Tract 8807.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197880903,
+    "census_tract_name": "Census Tract 8809.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197881200,
+    "census_tract_name": "Census Tract 8812"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197881401,
+    "census_tract_name": "Census Tract 8814.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197881604,
+    "census_tract_name": "Census Tract 8816.04"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197881800,
+    "census_tract_name": "Census Tract 8818"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197881900,
+    "census_tract_name": "Census Tract 8819"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197882000,
+    "census_tract_name": "Census Tract 8820"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197882100,
+    "census_tract_name": "Census Tract 8821"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197882200,
+    "census_tract_name": "Census Tract 8822"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197882300,
+    "census_tract_name": "Census Tract 8823"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197882400,
+    "census_tract_name": "Census Tract 8824"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197882500,
+    "census_tract_name": "Census Tract 8825"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197882602,
+    "census_tract_name": "Census Tract 8826.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197882802,
+    "census_tract_name": "Census Tract 8828.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197883100,
+    "census_tract_name": "Census Tract 8831"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197883603,
+    "census_tract_name": "Census Tract 8836.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197883605,
+    "census_tract_name": "Census Tract 8836.05"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197883700,
+    "census_tract_name": "Census Tract 8837"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Will County",
+    "census_tract_geoid": 17197980100,
+    "census_tract_name": "Census Tract 9801"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Williamson County",
+    "census_tract_geoid": 17199020400,
+    "census_tract_name": "Census Tract 204"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Williamson County",
+    "census_tract_geoid": 17199021000,
+    "census_tract_name": "Census Tract 210"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Williamson County",
+    "census_tract_geoid": 17199021100,
+    "census_tract_name": "Census Tract 211"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201000103,
+    "census_tract_name": "Census Tract 1.03"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201000200,
+    "census_tract_name": "Census Tract 2"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201000502,
+    "census_tract_name": "Census Tract 5.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201000800,
+    "census_tract_name": "Census Tract 8"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201001000,
+    "census_tract_name": "Census Tract 10"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201001100,
+    "census_tract_name": "Census Tract 11"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201001200,
+    "census_tract_name": "Census Tract 12"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201001300,
+    "census_tract_name": "Census Tract 13"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201001400,
+    "census_tract_name": "Census Tract 14"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201001700,
+    "census_tract_name": "Census Tract 17"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201001800,
+    "census_tract_name": "Census Tract 18"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002000,
+    "census_tract_name": "Census Tract 20"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002100,
+    "census_tract_name": "Census Tract 21"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002200,
+    "census_tract_name": "Census Tract 22"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002301,
+    "census_tract_name": "Census Tract 23.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002302,
+    "census_tract_name": "Census Tract 23.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002400,
+    "census_tract_name": "Census Tract 24"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002500,
+    "census_tract_name": "Census Tract 25"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002600,
+    "census_tract_name": "Census Tract 26"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002700,
+    "census_tract_name": "Census Tract 27"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002800,
+    "census_tract_name": "Census Tract 28"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201002900,
+    "census_tract_name": "Census Tract 29"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201003100,
+    "census_tract_name": "Census Tract 31"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201003200,
+    "census_tract_name": "Census Tract 32"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201003300,
+    "census_tract_name": "Census Tract 33"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201003400,
+    "census_tract_name": "Census Tract 34"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201003601,
+    "census_tract_name": "Census Tract 36.01"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201003602,
+    "census_tract_name": "Census Tract 36.02"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201003606,
+    "census_tract_name": "Census Tract 36.06"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201003708,
+    "census_tract_name": "Census Tract 37.08"
+  },
+  {
+    "state_name": "Illinois",
+    "county_name": "Winnebago County",
+    "census_tract_geoid": 17201003709,
+    "census_tract_name": "Census Tract 37.09"
+  }
+]

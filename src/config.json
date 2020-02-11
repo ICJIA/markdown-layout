@@ -1,0 +1,37 @@
+{
+  "clientURL": "https://icjia.illinois.gov",
+  "publicPath": "/r3",
+  "base": "r3",
+  "siteTitle": "Restore, Reinvest, and Renew (R3)",
+  "siteDescription": "Together with the R3 Board, ICJIA will award grant funds to community organizations that support economic development, provide violence prevention and reentry services, and offer youth development and civil legal aid.",
+  "search": {
+    "shouldSort": true,
+    "threshold": 0.8,
+    "location": 0,
+    "distance": 100,
+    "maxPatternLength": 32,
+    "minMatchCharLength": 3,
+    "keys": ["searchMeta", "title", "summary", "name", "slug"]
+  },
+  "debug": true,
+  "markdownItOptions": {
+    "html": true,
+    "xhtmlOut": false,
+    "breaks": false,
+    "langPrefix": "language-",
+    "linkify": true,
+    "typographer": false,
+    "quotes": "“”‘’"
+  },
+  "archiveBaseURL": "https://archive.icjia.cloud",
+  "markdownSourcePath": "./src/markdown/",
+  "staticAssetPath": "/public",
+  "jsonDestinationPath": "./api/",
+  "dateFormat": "MMMM DD, YYYY",
+  "dateFields": ["posted", "created", "expires", "updated"],
+  "siteConfig": {
+    "pages": {},
+    "funding": {},
+    "news": {}
+  }
+}
