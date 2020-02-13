@@ -23,6 +23,7 @@ export default new Vuex.Store({
     siteMeta: null,
     searchIndex: null,
     lastDeploy: null,
+    downloads: null,
     lastBuild: null,
     apiStatus: null,
     cache: new Map(),
@@ -74,6 +75,10 @@ export default new Vuex.Store({
     SET_MEETINGS(state, meetings) {
       state.meetings = meetings;
       console.log("Meetings loaded.");
+    },
+    SET_DOWNLOADS(state, downloads) {
+      state.downloads = downloads;
+      console.log("Downloads logged.");
     }
   },
   actions: {
@@ -93,6 +98,7 @@ export default new Vuex.Store({
     setSearchIndex({ commit }, searchIndex) {
       commit("SET_SEARCH_INDEX", searchIndex);
     },
+
     setSections({ commit }, sections) {
       commit("SET_SECTIONS", sections);
     },
@@ -133,6 +139,19 @@ export default new Vuex.Store({
       console.log(meetings);
       commit("SET_MEETINGS", meetings);
     }
+    // async setDownloads({ commit }) {
+    //   const downloadContext = await require.context(
+    //     "../../public/downloads",
+    //     true,
+    //     /\.md$/
+    //   );
+
+    //   const downloads = await downloadContext.keys().map(key => ({
+    //     ...downloadContext(key)
+    //   }));
+    //   console.log(downloads);
+    //   commit("SET_DOWNLOADS", downloads);
+    // }
   },
   getters: {
     isApiReady: state => {
@@ -151,6 +170,9 @@ export default new Vuex.Store({
     },
     routes: state => {
       return state.routes;
+    },
+    searchIndex: state => {
+      return state.searchIndex;
     },
     siteMeta: state => {
       return state.siteMeta;

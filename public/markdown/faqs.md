@@ -7,6 +7,7 @@ showInNav: true
 showInSidebar: true
 menuRank: 300
 menuTitle: "FAQs"
+summary: "Frequently Asked Questions about R3"
 ---
 
 <QuickNav></QuickNav>

@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "node generateRoutes && node generateSitemap && vue-cli-service serve",
-    "build": "node generateRoutes && node generateSitemap && vue-cli-service build",
+    "serve": "node generateRoutes && node generateSitemap && node generateSearchIndex && vue-cli-service serve",
+    "build": "node generateRoutes && node generateSitemap && node generateSearchIndex && vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
     "deploy": "now",
@@ -15,6 +15,7 @@
     "core-js": "^3.6.4",
     "diacritics-map": "^0.1.0",
     "front-matter": "^3.1.0",
+    "fuse.js": "^3.4.6",
     "gray-matter": "^4.0.2",
     "lazy-cache": "^2.0.2",
     "list-item": "^1.1.1",

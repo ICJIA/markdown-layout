@@ -63,8 +63,15 @@ export default {
       let config = await configPromise;
       this.$store.dispatch("setConfig", config);
 
+      const searchIndexPromise = process.BROWSER_BUILD
+        ? import("../public/searchIndex.json")
+        : Promise.resolve(require("../public/searchIndex.json"));
+      let searchIndex = await searchIndexPromise;
+
+      this.$store.dispatch("setSearchIndex", searchIndex);
       this.$store.dispatch("setSiteMeta");
       this.$store.dispatch("setMeetings");
+      //this.$store.dispatch("setDownloads");
       this.$store.dispatch("initApp");
     }
     this.siteTitle = `${this.$store.getters.config.siteTitle}`;

@@ -5,6 +5,7 @@ showInSitemap: true
 showInFooter: true
 showInNav: true
 showInSidebar: true
+summary: "Areas eligible to apply for R3 program grants were identified via an analysis of community-level data on gun injury, child poverty, unemployment, and state prison commitments and returns, combined with Disproportionately Impacted Areas identified by the Illinois Department of Commerce and Economic Opportunity (DCEO)."
 ---
 
 <QuickNav></QuickNav>

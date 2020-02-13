@@ -7,6 +7,7 @@ showInNav: true
 showInSidebar: true
 menuRank: 300
 menuTitle: "FAQs"
+summary: "Upcoming meetings"
 ---
 
 <QuickNav></QuickNav>
