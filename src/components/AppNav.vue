@@ -27,7 +27,18 @@
       hide-details
       label="Search"
       prepend-inner-icon="search"
+      class="hidden-sm-and-down"
     />
+    <v-btn
+      text
+      @click="
+        $router.push('/search').catch(err => {
+          $vuetify.goTo(0);
+        })
+      "
+    >
+      <v-icon large class="hidden-md-and-up">search</v-icon>
+    </v-btn>
   </v-app-bar>
 </template>
 
