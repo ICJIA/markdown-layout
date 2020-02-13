@@ -71,7 +71,7 @@ export default {
       this.$store.dispatch("setSearchIndex", searchIndex);
       this.$store.dispatch("setSiteMeta");
       this.$store.dispatch("setMeetings");
-      //this.$store.dispatch("setDownloads");
+
       this.$store.dispatch("initApp");
     }
     this.siteTitle = `${this.$store.getters.config.siteTitle}`;
