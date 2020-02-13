@@ -3,8 +3,9 @@ title: "Meeting Two"
 showInSitemap: true
 showToc: true
 scheduledDate: 2020-05-05
-summary: 'Inferiusque nondum, alis lingua admovit ictu magno, nati, Aegyptia et summa
-adlabimur innumerosque infans simul dextra.'
+summary: "Numquam fugit pater erat aut vespere vix."
+searchMeta: "meta info here"
+fileDownloadPath: "/downloads/meetings/"
 ---
 
 <QuickNav></QuickNav>

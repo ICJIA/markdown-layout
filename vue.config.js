@@ -25,6 +25,7 @@ module.exports = {
       .tap(options => {
         return {
           mode: [Mode.VUE_COMPONENT],
+          publicPath: "/",
           vue: {
             root: "markdown-body"
           },

@@ -34,16 +34,14 @@ paths.forEach(path => {
   routeObj.meta.markdownPath = path;
   routeObj.meta.toc = toc(fileObj.content).json;
   routeObj.meta.title = fileObj.data.title || "Untitled";
-  routeObj.meta.showInSitemap = fileObj.data.showInSitemap;
-  routeObj.meta.showInNav = fileObj.data.showInNav;
-  routeObj.meta.showInFooter = fileObj.data.showInFooter;
-  routeObj.meta.showInSidebar = fileObj.data.showInSidebar;
   routeObj.meta.showToc = fileObj.data.showToc;
   routeObj.meta.tocHeading = fileObj.data.tocHeading || fileObj.data.title;
   routeObj.meta.downloadPath = `/downloads${routeObj.path}/`;
   routeObj.meta.createdAt =
     fileObj.data.createdAt || new Date().toJSON().substring(0, 10);
   routeObj.meta.updatedAt = fileObj.data.updatedAt || routeObj.meta.createdAt;
+  routeObj.meta.searchMeta = fileObj.data.searchMeta || "";
+  routeObj.meta.summary = fileObj.data.summary || "";
 
   if (routeObj.path !== "/home") {
     generatedRoutes.push(routeObj);

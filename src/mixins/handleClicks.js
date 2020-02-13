@@ -14,18 +14,15 @@ export const handleClicks = {
 
       if (isAFile) {
         $event.preventDefault();
-        const filename = href.split("/").pop();
-        console.log(
-          "Download event: ",
-          this.$route.meta.downloadPath + filename
-        );
-        let downloadPath = this.$route.meta.downloadPath + filename;
+
+        console.log("Download event: ", href);
+
         // this.$ga.event({
         //   eventCategory: "File",
         //   eventAction: "Download",
         //   eventLabel: filename
         // });
-        location.href = downloadPath;
+        location.href = href;
       } else if (
         target &&
         target.matches(".dynamic-content a:not([href*='://'])") &&
