@@ -1,5 +1,11 @@
 <template>
-  <v-navigation-drawer v-model="drawer" app clipped color="grey lighten-4">
+  <v-navigation-drawer
+    v-model="drawer"
+    app
+    disable-resize-watcher
+    clipped
+    color="grey lighten-4"
+  >
     <v-list dense class="grey lighten-4">
       links here
     </v-list>

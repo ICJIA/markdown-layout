@@ -4,7 +4,9 @@
     <AppSidebar></AppSidebar>
 
     <v-content>
-      <router-view></router-view>
+      <transition name="fade" mode="out-in">
+        <router-view :key="`${new Date()}`"></router-view>
+      </transition>
     </v-content>
   </v-app>
 </template>
@@ -71,7 +73,6 @@ export default {
       this.$store.dispatch("setSearchIndex", searchIndex);
       this.$store.dispatch("setSiteMeta");
       this.$store.dispatch("setMeetings");
-
       this.$store.dispatch("initApp");
     }
     this.siteTitle = `${this.$store.getters.config.siteTitle}`;
@@ -85,5 +86,17 @@ export default {
 <style>
 .hover {
   cursor: pointer;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition-duration: 0.2s;
+  transition-property: opacity;
+  transition-timing-function: ease;
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0;
 }
 </style>

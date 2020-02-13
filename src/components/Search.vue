@@ -17,12 +17,9 @@
           <div v-for="(result, index) in queryResults" :key="index">
             <v-card
               class="mb-8 px-5 py-5 grey lighten-4"
-              @click="
-                $router.push(result.path).catch(err => {
-                  $vuetify.goTo(0);
-                })
-              "
+              @click="followPath(result)"
             >
+              <div class="text-right">{{ result.type }}</div>
               <h2>{{ result.title }}</h2>
               <p>{{ result.summary }}</p>
             </v-card>
@@ -65,6 +62,15 @@ export default {
     instantSearch() {
       this.queryResults = this.fuse.search(this.query);
       //console.log(this.fuse.search(this.query));
+    },
+    followPath(result) {
+      if (result.type === "page") {
+        this.$router.push(result.path);
+      } else if (result.type === "file") {
+        location.href = result.path;
+      } else {
+        return;
+      }
     }
   }
 };
