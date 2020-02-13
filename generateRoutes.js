@@ -37,6 +37,7 @@ paths.forEach(path => {
   routeObj.meta.showToc = fileObj.data.showToc;
   routeObj.meta.tocHeading = fileObj.data.tocHeading || fileObj.data.title;
   routeObj.meta.downloadPath = `/downloads${routeObj.path}/`;
+  routeObj.meta.showInSitemap = fileObj.data.showInSitemap;
   routeObj.meta.createdAt =
     fileObj.data.createdAt || new Date().toJSON().substring(0, 10);
   routeObj.meta.updatedAt = fileObj.data.updatedAt || routeObj.meta.createdAt;

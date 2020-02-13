@@ -55,7 +55,7 @@ export default {
       distance: 100,
       maxPatternLength: 32,
       minMatchCharLength: 3,
-      keys: ["searchMeta", "title", "headings", "summary"]
+      keys: ["searchMeta", "title", "headings", "summary", "type"]
     });
   },
   methods: {
