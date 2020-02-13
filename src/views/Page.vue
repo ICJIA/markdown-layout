@@ -1,53 +1,55 @@
 <template>
   <div>
-    <base-content id="baseContentTop" class="mb-12" :loading="false">
-      <template v-slot:title>
-        <v-container>
-          <v-row class="text-left">
-            <v-col cols="12">
-              <h1 class="page-title" :id="slugify(title)">
-                {{ title }}
-              </h1>
-            </v-col>
-          </v-row>
-        </v-container>
-      </template>
-      <template v-slot:content>
-        <v-container>
-          <v-row>
-            <v-col
-              cols="12"
-              sm="12"
-              :md="dynamicFlex()"
-              order-md="1"
-              order="2"
-              order-sm="2"
-              class="markdown-body js-toc-content"
-            >
-              <component
-                :is="markdownContent"
-                @click.native="handleClicks"
-                class="dynamic-content "
-              />
-            </v-col>
-            <v-col
-              v-if="showToc"
-              cols="12"
-              sm="12"
-              md="3"
-              order-md="2"
-              order="1"
-              order-sm="1"
-            >
-              <Toc
-                :toc="$route.meta.toc"
-                :tocHeading="$route.meta.tocHeading"
-              ></Toc>
-            </v-col>
-          </v-row>
-        </v-container>
-      </template>
-    </base-content>
+    <transition name="fade" mode="out-in">
+      <base-content id="baseContentTop" class="mb-12" :loading="false">
+        <template v-slot:title>
+          <v-container>
+            <v-row class="text-left">
+              <v-col cols="12">
+                <h1 class="page-title" :id="slugify(title)">
+                  {{ title }}
+                </h1>
+              </v-col>
+            </v-row>
+          </v-container>
+        </template>
+        <template v-slot:content>
+          <v-container>
+            <v-row>
+              <v-col
+                cols="12"
+                sm="12"
+                :md="dynamicFlex()"
+                order-md="1"
+                order="2"
+                order-sm="2"
+                class="markdown-body js-toc-content"
+              >
+                <component
+                  :is="markdownContent"
+                  @click.native="handleClicks"
+                  class="dynamic-content "
+                />
+              </v-col>
+              <v-col
+                v-if="showToc"
+                cols="12"
+                sm="12"
+                md="3"
+                order-md="2"
+                order="1"
+                order-sm="1"
+              >
+                <Toc
+                  :toc="$route.meta.toc"
+                  :tocHeading="$route.meta.tocHeading"
+                ></Toc>
+              </v-col>
+            </v-row>
+          </v-container>
+        </template>
+      </base-content>
+    </transition>
   </div>
 </template>
 
