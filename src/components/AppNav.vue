@@ -20,15 +20,8 @@
       </div>
     </div>
     <v-spacer></v-spacer>
+    <SearchNav></SearchNav>
 
-    <v-text-field
-      solo-inverted
-      flat
-      hide-details
-      label="Search"
-      prepend-inner-icon="search"
-      class="hidden-sm-and-down"
-    />
     <v-btn
       text
       @click="

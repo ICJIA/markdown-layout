@@ -8,6 +8,7 @@ showInNav: true
 showInSidebar: true
 menuRank: 0
 menuTitle: "Home"
+createdAt: "2010-02-06"
 ---
 
 <QuickNav></QuickNav>
