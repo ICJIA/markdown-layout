@@ -26,7 +26,8 @@ let generatedRoutes = [];
 
 paths.forEach(path => {
   let fileObj = matter(fs.readFileSync(path, "utf8"));
-
+  let statObj = fs.statSync(path);
+  console.log(path, statObj.birthtime);
   let routeObj = {};
   routeObj.path = path.replace(base, "").replace(".md", "");
   routeObj.name = slugs(routeObj.path);
