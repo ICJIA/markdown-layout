@@ -8,6 +8,7 @@ showInSidebar: true
 menuRank: 300
 menuTitle: "FAQs"
 summary: "Frequently Asked Questions about R3"
+createdAt: "2010-02-06"
 ---
 
 <QuickNav></QuickNav>

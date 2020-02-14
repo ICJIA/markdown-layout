@@ -6,6 +6,7 @@ scheduledDate: 2020-05-05
 summary: "Numquam fugit pater erat aut vespere vix."
 searchMeta: "meta info here"
 fileDownloadPath: "/downloads/meetings/"
+createdAt: "2010-02-12"
 ---
 
 <QuickNav></QuickNav>

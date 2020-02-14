@@ -4,6 +4,9 @@ const base = "public/markdown";
 const slugs = require("slugs");
 const matter = require("gray-matter");
 const toc = require("./lib/markdown-toc-fork");
+//const moment = require("moment");
+const moment = require("moment-timezone");
+
 function findInDir(dir, filter, fileList = []) {
   const files = fs.readdirSync(dir);
 
@@ -26,8 +29,7 @@ let generatedRoutes = [];
 
 paths.forEach(path => {
   let fileObj = matter(fs.readFileSync(path, "utf8"));
-  let statObj = fs.statSync(path);
-  console.log(path, statObj.birthtime);
+
   let routeObj = {};
   routeObj.path = path.replace(base, "").replace(".md", "");
   routeObj.name = slugs(routeObj.path);
@@ -39,8 +41,11 @@ paths.forEach(path => {
   routeObj.meta.tocHeading = fileObj.data.tocHeading || fileObj.data.title;
   routeObj.meta.downloadPath = `/downloads${routeObj.path}/`;
   routeObj.meta.showInSitemap = fileObj.data.showInSitemap;
-  routeObj.meta.createdAt = statObj.birthtime;
-  routeObj.meta.updatedAt = statObj.ctime;
+  routeObj.meta.createdAt = moment.tz(
+    fileObj.data.createdAt,
+    "America/Chicago"
+  );
+  routeObj.meta.updatedAt = fileObj.data.updatedAt || routeObj.meta.createdAt;
   routeObj.meta.searchMeta = fileObj.data.searchMeta || "";
   routeObj.meta.summary = fileObj.data.summary || "";
 
