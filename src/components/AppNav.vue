@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-app-bar
-      app
+      :app="addAppAttr"
       clipped-left
       :flat="flat"
       color="white"
@@ -61,6 +61,15 @@ export default {
       extended: false,
       flat: false
     };
+  },
+  computed: {
+    addAppAttr() {
+      if (this.$vuetify.breakpoint.xs || this.$vuetify.breakpoint.xs) {
+        return false;
+      } else {
+        return true;
+      }
+    }
   },
   mounted() {
     EventBus.$on("closeSearch", () => {
