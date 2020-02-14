@@ -39,9 +39,8 @@ paths.forEach(path => {
   routeObj.meta.tocHeading = fileObj.data.tocHeading || fileObj.data.title;
   routeObj.meta.downloadPath = `/downloads${routeObj.path}/`;
   routeObj.meta.showInSitemap = fileObj.data.showInSitemap;
-  routeObj.meta.createdAt =
-    fileObj.data.createdAt || new Date().toJSON().substring(0, 10);
-  routeObj.meta.updatedAt = fileObj.data.updatedAt || routeObj.meta.createdAt;
+  routeObj.meta.createdAt = statObj.birthtime;
+  routeObj.meta.updatedAt = statObj.ctime;
   routeObj.meta.searchMeta = fileObj.data.searchMeta || "";
   routeObj.meta.summary = fileObj.data.summary || "";
 
