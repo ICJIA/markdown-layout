@@ -38,25 +38,18 @@
         <v-icon @click="showCard()">search</v-icon>
       </v-btn>
     </v-app-bar>
-    <!-- <transition name="fade"> -->
-    <v-app-bar
-      fixed
-      dense
-      v-if="extended"
-      style="margin: 0; margin-top: 90px; padding: 0;"
-    >
-      <SearchNav
-        style="margin-left: -15px; width: 110%; margin-right: -15px;"
-      ></SearchNav>
-    </v-app-bar>
-    <!-- <v-card
+    <transition name="fade">
+      <v-app-bar
+        fixed
+        dense
         v-if="extended"
-        class="searchCard"
-        style="position: absolute; top: 92px; z-index: 5000; width: 100%;"
+        style="margin: 0; margin-top: 90px; padding: 0;"
       >
-        <SearchNav></SearchNav>
-      </v-card> -->
-    <!-- </transition> -->
+        <SearchNav
+          style="margin-left: -15px; width: 110%; margin-right: -15px;"
+        ></SearchNav>
+      </v-app-bar>
+    </transition>
   </div>
 </template>
 
