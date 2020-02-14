@@ -1,23 +1,25 @@
 <template>
-  <v-col class="hidden-sm-and-down">
-    <div style="width: 550px">
-      <v-text-field label="hidden" style="display:none"></v-text-field>
-      <v-text-field
-        ref="textfield"
-        v-model="query"
-        placeholder="Search"
-        @keyup="instantSearch"
-        solo-inverted
-        flat
-        clear-icon
-        clearable
-        hide-details
-        label="Search"
-        prepend-inner-icon="search"
-      />
+  <div style="position: relative">
+    <v-text-field label="hidden" style="display:none"></v-text-field>
+    <v-text-field
+      ref="textfield"
+      v-model="query"
+      placeholder="Search"
+      @keyup="instantSearch"
+      solo-inverted
+      flat
+      clear-icon
+      clearable
+      hide-details
+      label="Search"
+      prepend-inner-icon="search"
+    />
+    <div>
       <v-card
         v-if="query && query.length"
-        style="position: absolute; margin-top: 2px; margin-left: 2px; width: 550px"
+        style="position: absolute;"
+        color="grey lighten-3"
+        class="elevation-8"
       >
         <!-- <div v-for="(result, index) in queryResults" :key="index">
           <v-card class="white elevation-0" @click="followPath(result)">
@@ -65,12 +67,13 @@
         </div>
       </v-card>
     </div>
-  </v-col>
+  </div>
 </template>
 
 <script>
 import Fuse from "fuse.js";
 import _ from "lodash";
+import { EventBus } from "@/event-bus";
 export default {
   async created() {
     const searchIndexPromise = process.BROWSER_BUILD
@@ -113,12 +116,15 @@ export default {
       if (result.type === "page") {
         this.queryResults = "";
         this.query = "";
+        EventBus.$emit("closeSearch");
         this.$router.push(result.path).catch(() => {
           this.$vuetify.goTo(0);
         });
       } else if (result.type === "file") {
         this.queryResults = "";
+        this.extended = false;
         this.query = "";
+        EventBus.$emit("closeSearch");
         location.href = result.path;
       } else {
         return;
@@ -134,5 +140,10 @@ export default {
 }
 .resultTitle:hover {
   color: #999;
+}
+.spacer {
+  -webkit-box-flex: 3 !important;
+  -ms-flex-positive: 3 !important;
+  flex-grow: 3 !important;
 }
 </style>

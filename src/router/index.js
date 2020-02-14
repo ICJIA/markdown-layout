@@ -1,6 +1,7 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 // import Home from "../views/Home.vue";
+import { EventBus } from "@/event-bus";
 
 const markdownRoutes = require("./markdownRoutes.json");
 const manualRoutes = require("./manualRoutes.js");
@@ -34,8 +35,10 @@ const router = new VueRouter({
   }
 });
 
-// router.afterEach((to, from) => {
-//   console.log("after route", to, from);
-// });
+// eslint-disable-next-line no-unused-vars
+router.afterEach((to, from) => {
+  EventBus.$emit("closeSearch");
+  EventBus.$emit("unflattenNav");
+});
 
 export default router;
