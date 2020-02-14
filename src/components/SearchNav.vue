@@ -17,7 +17,7 @@
     <div>
       <v-card
         v-if="query && query.length"
-        style="position: absolute;"
+        style="position: absolute;width: 100%"
         color="grey lighten-3"
         class="elevation-8"
       >
