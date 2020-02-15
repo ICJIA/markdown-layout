@@ -2,6 +2,7 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 // import Home from "../views/Home.vue";
 import { EventBus } from "@/event-bus";
+const NProgress = require("nprogress");
 
 const markdownRoutes = require("./markdownRoutes.json");
 const manualRoutes = require("./manualRoutes.js");
@@ -35,10 +36,20 @@ const router = new VueRouter({
   }
 });
 
+router.beforeResolve((to, from, next) => {
+  // If this isn't an initial page load.
+  if (to.name) {
+    // Start the route progress bar.
+    NProgress.start();
+  }
+  next();
+});
+
 // eslint-disable-next-line no-unused-vars
 router.afterEach((to, from) => {
   EventBus.$emit("closeSearch");
   EventBus.$emit("unflattenNav");
+  NProgress.done();
 });
 
 export default router;

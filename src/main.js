@@ -17,7 +17,7 @@ const NProgress = require("nprogress");
   }
 })();
 
-NProgress.configure({ showSpinner: false });
+NProgress.configure({ showSpinner: true });
 Vue.config.productionTip = false;
 
 new Vue({
