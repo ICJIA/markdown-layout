@@ -19,7 +19,7 @@
     "gray-matter": "^4.0.2",
     "lazy-cache": "^2.0.2",
     "list-item": "^1.1.1",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "markdown-it-attrs": "^3.0.2",
     "markdown-link": "^0.1.1",
     "markdown-toc": "^1.2.0",
